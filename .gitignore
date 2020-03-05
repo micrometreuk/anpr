@@ -1,0 +1,7 @@
+node_modules
+.package-lock.json
+*.log
+supervisord.log
+supervisord.pid
+openalpr
+uploads/*

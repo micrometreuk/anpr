@@ -1,0 +1,43 @@
+// Json5 format, see https://json5.org/
+{
+    "config": {
+        "pageTitle": "Linux Webmin",
+        "links": [
+            {
+                "label": "GitHub",
+                "url": "https://github.com/micrometre/anpr",
+                "newTab": true
+            },
+            {
+                "label": "Rocket.Chat",
+                "url": "https://im.micrometre.uk",
+                "newTab": true
+            }
+        ],
+
+        "commands": [
+	    {
+                "label": "list photos",
+                "nickname": "photos",
+                "exec": "make list_photos"
+            },            
+	    {
+                "label": "show result",
+                "nickname": "result",
+                "exec": "make show_results"
+            }            
+
+        ],
+        "informations": [
+            {
+                "label": "Anpr Photos",
+                "exec": "make list_photos"
+
+            },
+            {
+                "label": "Anpr Result",
+                "exec": "make show_results"
+            }
+        ]
+    }
+}

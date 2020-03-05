@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<!-- views/partials/header.ejs -->
+  <div class="uk-navbar-container" uk-navbar>
+      <div class="uk-navbar-left">
+          <div class="navbar-header">
+           <span uk-icon="icon: link"></span> 
+           <a href="/">Home</a>
+           <span uk-icon="icon: link"></span> 
+           <a href="/users">Users</a>
+            
+         </div>
+      </div>
+      <div class="uk-navbar-right">
+            <ul class="uk-navbar-nav">
+                    <% links.forEach(function(link, index) { %>
+                    <a class="uk-button uk-button-default" href="<%= link.url %>" onclick="modifyLinkTarget(event);" <% if (link.newTab == true) { %>target="_blank" rel=”noopener”<% } %> >
+                    <span uk-icon="icon: link"></span> <%= link.label %>
+                    </a>        
+                    <% }); %>
+            </ul>
+      </div>
+  </div>

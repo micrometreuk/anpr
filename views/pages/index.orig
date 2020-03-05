@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <% include ../partials/head %>
+</head>
+<body>
+    <header>
+    <% include ../partials/header %>
+</header>
+
+<main>
+    <div>
+        <h1>This is great</h1>
+        <p>Welcome to templating using EJS</p>
+    </div>
+</main>
+   <div>
+      <ul>
+        <% videodata.categories.forEach(function(item){ %>
+        <li><%= item.categoryName %></li>
+       <% }); %>
+      </ul>
+   </div>
+<footer>
+    <% include ../partials/footer %>
+</footer>
+
+</body>
+
+</html>
