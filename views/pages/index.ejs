@@ -12,10 +12,12 @@
         <div class="uk-section uk-section-default uk-section-small">
             <div class="uk-container">
                 <div class="uk-margin">
-                    <form action="/" enctype="multipart/form-data" method="post">
-                      <input type="file" id="file-input" name="file-input">
-                      <input type="submit" value="Upload">
-                    </form>
+                    <div class="uk-flex uk-flex-center" uk-grid>
+                        <form action="/" enctype="multipart/form-data" method="post">
+                          <input type="file" name="file-to-upload">
+                          <input type="submit" value="Upload">
+                        </form>  
+                    </div>
                 </div>
             </div>
         </div>
