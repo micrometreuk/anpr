@@ -98,7 +98,7 @@ h3, .uk-h3 {
 }
 
 
-input{
+input, input[type="file" i] {
 background: transparent;
 padding: 0 30px;
 vertical-align: middle;
@@ -111,6 +111,4 @@ margin-left: 10px;
 border: 1px solid #e5e5e5;
 
 }
-
-
 
