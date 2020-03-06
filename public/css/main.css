@@ -96,3 +96,21 @@ h3, .uk-h3 {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+
+input{
+background: transparent;
+padding: 0 30px;
+vertical-align: middle;
+font-size: .875rem;
+line-height: 38px;
+text-align: center;
+text-transform: uppercase;
+margin-right: 10px;
+margin-left: 10px;
+border: 1px solid #e5e5e5;
+
+}
+
+
+

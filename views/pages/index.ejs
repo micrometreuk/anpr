@@ -1,43 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <% include ../partials/head %>
+<% include ../partials/head %>
 </head>
 <body>
-    <header>
-    <% include ../partials/header %>
+<header>
+<% include ../partials/header %>
 </header>
-
-
-
-<div class="js-upload" uk-form-custom>
-    <input type="file" multiple>
-    <button class="uk-button uk-button-default" type="button" tabindex="-1">Select</button>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <div class="uk-container uk-container-small	page-container">
-        <div class="uk-card uk-card-default uk-card-body">
-            <div class="uk-section uk-section-default uk-section-small">
-                <div class="uk-container">
-                    <div class="uk-margin">
+<div class="uk-container uk-container-small	page-container">
+    <div class="uk-card uk-card-default uk-card-body">
+        <div class="uk-section uk-section-default uk-section-small">
+            <div class="uk-container">
+                <div class="uk-margin">
                     <form action="/" enctype="multipart/form-data" method="post">
-                      <input type="file" name="file-to-upload">
+                      <input type="file" id="file-input" name="file-input">
                       <input type="submit" value="Upload">
                     </form>
                 </div>
@@ -45,7 +21,7 @@
         </div>
     </div>
 </div>
- <div class="uk-container uk-container-small	page-container">
+<div class="uk-container uk-container-small	page-container">
     <div class="uk-card uk-card-default uk-card-body">
         <div class="uk-section uk-section-default uk-section-small">
             <div class="uk-container">
