@@ -12,9 +12,9 @@ To get started with node.js installation read the post from https://micrometre.c
 ``` bash
 git clone git@github.com:micrometreuk/anpr.git
 cd anpr
+npm  install 
 npm run start
-npm run test
-npm run debug
+npm run test    #needs nodemone installed ```bash npm install nodemon```
 ```
 
 ###  In a Docker container.
