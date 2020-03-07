@@ -8,7 +8,9 @@ Web ui for Open/alpr wit Express.js
 
 If you are deploying on localhost you will need node.js installed, to get started with node.js installation read the post from https://micrometre.co.uk/micrometreuk-articles/2020/02/06/nodejs.html
 
+
 ``` bash
+git clone git@github.com:micrometreuk/webmin.git
 npm run start
 npm run test
 npm run debug
@@ -24,7 +26,7 @@ For this demo the Requirements are Docker and docker-compose. To Install Docker 
     Clone the repo and use the make file to get started.
 
 ``` bash
-git clone git@github.com:micrometreuk/webmin.git
+git clone git@github.com:micrometreuk/anpr.git
 ``` 
 
 ``` bash
