@@ -5,12 +5,7 @@
         "links": [
             {
                 "label": "GitHub",
-                "url": "https://github.com/micrometre/anpr",
-                "newTab": true
-            },
-            {
-                "label": "Rocket.Chat",
-                "url": "https://im.micrometre.uk",
+                "url": "https://github.com/micrometreuk",
                 "newTab": true
             }
         ],
