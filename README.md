@@ -10,7 +10,8 @@ To get started with node.js installation read the post from https://micrometre.c
 
 
 ``` bash
-git clone git@github.com:micrometreuk/webmin.git
+git clone git@github.com:micrometreuk/anpr.git
+cd anpr
 npm run start
 npm run test
 npm run debug
