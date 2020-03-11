@@ -3,16 +3,19 @@ var router = express.Router();
 var config = require('config');
 var config = config.get('config');
 var exec = require('child_process').exec;
+var formidable = require('formidable');
 
-var multer = require('multer');
-var upload = multer({
-  dest: './public/uploads/' // this saves your file into a directory called "uploads"
-}); 
-router.post('/', upload.single('file-to-upload'), (req, res) => {
-  res.redirect('/');
-});
 router.get('/', function (req, res) {
     res.render('pages/index.ejs', {
+        locations: config.locations,
+        links: config.links,
+        commands: config.commands,
+        pageTitle: config.pageTitle
+    });
+});
+
+router.get('/users', function (req, res) {
+    res.render('pages/users.ejs', {
         locations: config.locations,
         links: config.links,
         commands: config.commands,
