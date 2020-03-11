@@ -5,3 +5,4 @@ supervisord.log
 supervisord.pid
 openalpr
 uploads/*
+package-lock.json
