@@ -3,10 +3,25 @@ var router = express.Router();
 var config = require('config');
 var config = config.get('config');
 var exec = require('child_process').exec;
-var upload = multer({ dest: 'uploads/' })
  
-router.post('/profile', upload.single('avatar'), function (req, res, next) {
-})
+var multer = require('multer');
+var multer = require('multer');
+var upload = multer({
+  dest: './public/uploads/' // this saves your file into a directory called "uploads"
+}); 
+router.post('/', upload.single('file-to-upload'), (req, res) => {
+  res.redirect('/');
+});
+
+
+//var upload = multer({dest: __dirname + 'public/uploads'});
+
+//router.post('/upload', upload.single('photo'), (req, res) => {
+//res.redirect('/');
+//});
+
+
+
 router.get('/', function (req, res) {
     res.render('pages/index.ejs', {
         locations: config.locations,
