@@ -3,7 +3,10 @@ var router = express.Router();
 var config = require('config');
 var config = config.get('config');
 var exec = require('child_process').exec;
-
+var upload = multer({ dest: 'uploads/' })
+ 
+router.post('/profile', upload.single('avatar'), function (req, res, next) {
+})
 router.get('/', function (req, res) {
     res.render('pages/index.ejs', {
         locations: config.locations,
