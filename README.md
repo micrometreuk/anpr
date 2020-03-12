@@ -2,7 +2,6 @@
 Web ui for Open/ALPR with Express.js
 
 
-
 ### Requirements
 - Node.js
 

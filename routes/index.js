@@ -3,7 +3,6 @@ var router = express.Router();
 var config = require('config');
 var config = config.get('config');
 var exec = require('child_process').exec;
-var formidable = require('formidable');
 
 router.get('/', function (req, res) {
     res.render('pages/index.ejs', {
@@ -14,14 +13,6 @@ router.get('/', function (req, res) {
     });
 });
 
-router.get('/users', function (req, res) {
-    res.render('pages/users.ejs', {
-        locations: config.locations,
-        links: config.links,
-        commands: config.commands,
-        pageTitle: config.pageTitle
-    });
-});
 router.get('/info', function (req, res) {
     var informations = config.informations;
     var infoResults = new Array()
