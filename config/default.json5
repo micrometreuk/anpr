@@ -1,0 +1,34 @@
+// Json5 format, see https://json5.org/
+{
+    "config": {
+        "pageTitle": "anpr.micrometre.uk",
+        "listeningPort": 9091,
+        "links": [
+            {
+                "label": "GitHub",
+                "url": "https://github.com/micrometreuk/anpr",
+                "newTab": true
+            }
+        ],
+
+        "commands": [
+
+	    {
+                "label": "anpr",
+                "nickname": "anpr",
+                "exec": "make start_anpr"
+            },            
+	    {
+                "label": "list photos",
+                "nickname": "photos",
+                "exec": "make list_photos"
+            },            
+	    {
+                "label": "show result",
+                "nickname": "result",
+                "exec": " make show_results"
+            }            
+
+        ]
+    }
+}

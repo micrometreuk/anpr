@@ -1,0 +1,12 @@
+node_modules
+*.log
+.git
+Dockerfile
+openalpr
+.package-lock.json
+*.log
+supervisord.log
+supervisord.pid
+openalpr
+*.mp4
+.vagrant

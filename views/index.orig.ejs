@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        <%= pageTitle %>
+    </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="mask-icon" href="img/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="img/favicon.ico">
+    <meta name="msapplication-TileColor" content="#ffc40d">
+    <meta name="msapplication-config" content="browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="css/uikit.min.css" />
+    <script src="js/uikit.min.js"></script>
+    <script src="js/uikit-icons.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
+    <script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+  <div class="uk-navbar-container" uk-navbar>
+      <div class="uk-navbar-left">
+          <div class="navbar-header">
+           <span uk-icon="icon: link"></span> 
+           <a href="/">Home</a>
+         </div>
+      </div>
+      <div class="uk-navbar-left">
+          <div class="navbar-header">
+           <span uk-icon="icon: link"></span> 
+           <a href="/uploads">Uploads</a>
+         </div>
+      </div>
+      <div class="uk-navbar-right">
+            <ul class="uk-navbar-nav">
+                    <% links.forEach(function(link, index) { %>
+                    <a class="uk-button uk-button-default" href="<%= link.url %>" onclick="modifyLinkTarget(event);" <% if (link.newTab == true) { %>target="_blank" rel=”noopener”<% } %> >
+                    <span uk-icon="icon: link"></span> <%= link.label %>
+                    </a>        
+                    <% }); %>
+            </ul>
+      </div>
+  </div>
+        <div class="uk-card uk-card-default uk-card-body">
+            <div class="uk-section uk-section-default uk-section-small">
+                <div class="uk-container">
+                    <div class="uk-margin">
+                        <div class="uk-flex uk-flex-center" uk-grid>
+                            <% commands.forEach(function(command, index) { %>
+                                <button class="uk-button uk-button-default" onclick="sendCommandAndPopulateResultZone('<%= command.nickname %>')">
+                                        <span uk-icon="icon: chevron-right"></span> <%= command.label %>
+                                </button>
+
+                                <% }); %>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="resultContainer" class="uk-card uk-card-default uk-card-body">
+            <div class="uk-section uk-section-default uk-section-small">
+                <div class="uk-container">
+                    <div>
+                        <span id="successIndicator" class="uk-label uk-label-success">Success</span>
+                        <span id="failureIndicator" class="uk-label uk-label-warning">Error</span>
+                        <span id="clearIcon">
+                            <span class="linkBehavior" uk-icon="trash" onclick="updateResultIndicatorAndStatus('')"></span>
+                        </span>
+                    </div>
+                    <div class="uk-alert mono" id="commandResult">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="uk-card uk-card-default uk-card-body">
+            <div class="uk-section uk-section-default uk-section-small">
+                <div class="uk-container">
+                    <div class="uk-margin">
+                        <div id="informationZone">
+                                <div uk-spinner></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</body>
+<script>
+    getInformationAndPopulateInformationZone();
+</script>
+
+
+
+<p><%= points %></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
