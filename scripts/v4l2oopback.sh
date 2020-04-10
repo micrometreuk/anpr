@@ -21,9 +21,9 @@ gstreamer1.0-gl \
 gstreamer1.0-gtk3 \
 gstreamer1.0-qt5 \
 gstreamer1.0-pulseaudio
-
-
-
 sudo  module-assistant auto-install v4l2loopback-source
 sudo modprobe v4l2loopback
 sudo depmod -a
+loopback command
+#ffmpeg -i 2.mp4 -f v4l2 -r 10 -pix_fmt yuyv422 /dev/video2
+
