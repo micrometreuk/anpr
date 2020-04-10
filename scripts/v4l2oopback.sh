@@ -24,6 +24,6 @@ gstreamer1.0-pulseaudio
 sudo  module-assistant auto-install v4l2loopback-source
 sudo modprobe v4l2loopback
 sudo depmod -a
-loopback command
+#loopback command
 #ffmpeg -i 2.mp4 -f v4l2 -r 10 -pix_fmt yuyv422 /dev/video2
-
+#ffmpeg -i samples/2.mp4 -filter:v "setpts=2*PTS" -f v4l2 -pix_fmt yuyv422 /dev/video2
