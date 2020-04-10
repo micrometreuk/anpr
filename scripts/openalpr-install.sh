@@ -25,3 +25,6 @@ cmake -DCMAKE_INSTALL_PREFIX:PATH=/usr -DCMAKE_INSTALL_SYSCONFDIR:PATH=/etc ..
 make
 # Install the binaries/libraries to your local system (prefix is /usr)
 sudo make install
+sudo  add-apt-repository ppa:alex-p/tesseract-ocr -y
+sudo apt update  
+sudo apt install tesseract-ocr -y
