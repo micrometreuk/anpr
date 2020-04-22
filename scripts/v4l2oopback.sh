@@ -10,7 +10,7 @@ module-assistant \
 ffmpeg \
 mpv \
 mplayer 
-sudo aptitude install v4l2loopback-source module-assistant v4l2loopback-dkms -y
+sudo aptitude install v4l2loopback-source module-assistant v4l2loopback-dkms v4l2loopback-utils -y
 sudo module-assistant auto-install v4l2loopback-source
 sudo modinfo v4l2loopback 
 sudo modprobe v4l2loopback 
