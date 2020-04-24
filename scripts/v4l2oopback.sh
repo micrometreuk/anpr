@@ -1,7 +1,6 @@
 #!/bin/bash
 export DEBIAN_FRONTEND=noninteractive
-sudo apt update -y && sudo apt upgrade \
-sudo apt install -y \
+sudo apt update && sudo apt upgrade && sudo apt install -y \
 aptitude \
 v4l2loopback-source  \
 v4l2loopback-utils \
@@ -10,7 +9,8 @@ module-assistant \
 ffmpeg \
 mpv \
 mplayer 
-sudo aptitude install v4l2loopback-source module-assistant v4l2loopback-dkms v4l2loopback-utils -y
+#Uncomment if using aptitude
+#sudo aptitude install v4l2loopback-source module-assistant v4l2loopback-dkms v4l2loopback-utils -y
 sudo module-assistant auto-install v4l2loopback-source
 sudo modinfo v4l2loopback 
 sudo modprobe v4l2loopback 
