@@ -1,0 +1,7 @@
+db.createUser(
+  {
+    user: "nodered",
+    pwd: "password",
+    roles: [ { role: "userAdminAnyDatabase", db: "admin" } ]
+  }
+)
