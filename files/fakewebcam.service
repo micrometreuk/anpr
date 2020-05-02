@@ -1,0 +1,9 @@
+[Unit]
+Description=Stream MP4 files to a virtual loop device  systemd service.
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /usr/bin/fake-webcam.sh
+
+[Install]
+WantedBy=multi-user.target
