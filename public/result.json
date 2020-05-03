@@ -1,0 +1,1216 @@
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514782031,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1919.054199,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "H19UAE",
+            "confidence": 83.533409,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 208.47702,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 198,
+                    "y": 250
+                },
+                {
+                    "x": 1060,
+                    "y": 257
+                },
+                {
+                    "x": 1060,
+                    "y": 469
+                },
+                {
+                    "x": 191,
+                    "y": 461
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "H19UAE",
+                    "confidence": 83.533409,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H9UAE",
+                    "confidence": 80.634926,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H19UE",
+                    "confidence": 75.101639,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H19AE",
+                    "confidence": 72.683823,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H190AE",
+                    "confidence": 70.802177,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514783953",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514782599,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1967.974854,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "H19UAE",
+            "confidence": 85.452202,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 171.077682,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 409,
+                    "y": 215
+                },
+                {
+                    "x": 1279,
+                    "y": 227
+                },
+                {
+                    "x": 1279,
+                    "y": 433
+                },
+                {
+                    "x": 409,
+                    "y": 421
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "H19UAE",
+                    "confidence": 85.452202,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H19UA",
+                    "confidence": 83.59333,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H9UAE",
+                    "confidence": 79.088936,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H19UA6",
+                    "confidence": 78.43811,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H9UA6",
+                    "confidence": 72.074844,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514784589",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514782419,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2204.470947,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "H19UAE",
+            "confidence": 88.854591,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 185.531128,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 426,
+                    "y": 207
+                },
+                {
+                    "x": 1277,
+                    "y": 214
+                },
+                {
+                    "x": 1277,
+                    "y": 418
+                },
+                {
+                    "x": 426,
+                    "y": 412
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "H19UAE",
+                    "confidence": 88.854591,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H9UAE",
+                    "confidence": 84.801094,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H190AE",
+                    "confidence": 75.288559,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H19AE",
+                    "confidence": 74.037331,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H90AE",
+                    "confidence": 71.235062,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514784626",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514783297,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1980.334106,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "H19UA",
+            "confidence": 86.53286,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 169.111603,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 407,
+                    "y": 202
+                },
+                {
+                    "x": 1276,
+                    "y": 212
+                },
+                {
+                    "x": 1276,
+                    "y": 420
+                },
+                {
+                    "x": 407,
+                    "y": 398
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "H19UA",
+                    "confidence": 86.53286,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H19UAE",
+                    "confidence": 80.088737,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H19UAL",
+                    "confidence": 79.153221,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H190A",
+                    "confidence": 71.538391,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H9UAE",
+                    "confidence": 69.763443,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514785280",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514783984,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1832.476196,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "H19UAE",
+            "confidence": 87.466362,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 184.350906,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 387,
+                    "y": 150
+                },
+                {
+                    "x": 1276,
+                    "y": 150
+                },
+                {
+                    "x": 1276,
+                    "y": 359
+                },
+                {
+                    "x": 387,
+                    "y": 359
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "H19UAE",
+                    "confidence": 87.466362,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H19DAE",
+                    "confidence": 72.162468,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H190AE",
+                    "confidence": 71.837173,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "H19AE",
+                    "confidence": 70.821541,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "M19UAE",
+                    "confidence": 70.168335,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514785831",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514788660,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1571.850464,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "YC08LHZ",
+            "confidence": 89.184891,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 103.748772,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 337,
+                    "y": 303
+                },
+                {
+                    "x": 1231,
+                    "y": 295
+                },
+                {
+                    "x": 1216,
+                    "y": 469
+                },
+                {
+                    "x": 344,
+                    "y": 477
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "YC08LHZ",
+                    "confidence": 89.184891,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "YC09LHZ",
+                    "confidence": 85.174919,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "YC0BLHZ",
+                    "confidence": 83.577354,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "YC0LHZ",
+                    "confidence": 82.463417,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "YCO8LHZ",
+                    "confidence": 81.900993,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514790235",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514788792,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1861.498413,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "YC08LHZ",
+            "confidence": 82.50116,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 190.061905,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 248,
+                    "y": 279
+                },
+                {
+                    "x": 1105,
+                    "y": 267
+                },
+                {
+                    "x": 1102,
+                    "y": 445
+                },
+                {
+                    "x": 254,
+                    "y": 447
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "YCO8LHZ",
+                    "confidence": 89.318626,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "YC08LHZ",
+                    "confidence": 82.50116,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "YGO8LHZ",
+                    "confidence": 80.657608,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "YCOBLHZ",
+                    "confidence": 79.849571,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "YCO8LH2",
+                    "confidence": 79.353882,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514790656",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514789301,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1561.490845,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "YC08LHZ",
+            "confidence": 82.80912,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 112.739708,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 260,
+                    "y": 277
+                },
+                {
+                    "x": 1113,
+                    "y": 277
+                },
+                {
+                    "x": 1107,
+                    "y": 451
+                },
+                {
+                    "x": 260,
+                    "y": 451
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "YCO8LHZ",
+                    "confidence": 89.982254,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "YC08LHZ",
+                    "confidence": 82.80912,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "YGO8LHZ",
+                    "confidence": 82.667206,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "Y0O8LHZ",
+                    "confidence": 81.721542,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "YOO8LHZ",
+                    "confidence": 81.377831,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514790866",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514789577,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1509.603271,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "YC08LHZ",
+            "confidence": 89.660446,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 157.537231,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 299,
+                    "y": 273
+                },
+                {
+                    "x": 1166,
+                    "y": 305
+                },
+                {
+                    "x": 1155,
+                    "y": 480
+                },
+                {
+                    "x": 299,
+                    "y": 449
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "YC08LHZ",
+                    "confidence": 89.660446,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "YCO8LHZ",
+                    "confidence": 83.032715,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "YG08LHZ",
+                    "confidence": 81.79808,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "YC0LHZ",
+                    "confidence": 81.373795,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "YC0BLHZ",
+                    "confidence": 81.19754,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514791089",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514792018,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1630.498657,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "RX69TL",
+            "confidence": 80.763924,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 180.221466,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 0,
+                    "y": 303
+                },
+                {
+                    "x": 884,
+                    "y": 312
+                },
+                {
+                    "x": 868,
+                    "y": 488
+                },
+                {
+                    "x": 0,
+                    "y": 479
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "RX69TL",
+                    "confidence": 80.763924,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "RX69L",
+                    "confidence": 77.905334,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "9RX69TL",
+                    "confidence": 77.082352,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "9RX69L",
+                    "confidence": 74.22377,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "X69TL",
+                    "confidence": 72.646523,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514793660",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514792675,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1459.780396,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "RX69TL",
+            "confidence": 81.801231,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 101.666695,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 167,
+                    "y": 307
+                },
+                {
+                    "x": 983,
+                    "y": 324
+                },
+                {
+                    "x": 978,
+                    "y": 499
+                },
+                {
+                    "x": 167,
+                    "y": 482
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "RX69TL",
+                    "confidence": 81.801231,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "RX69L",
+                    "confidence": 81.37413,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "RXE9TL",
+                    "confidence": 76.103439,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "RXE9L",
+                    "confidence": 75.676353,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "RX9TL",
+                    "confidence": 73.208466,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514794139",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514792782,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1461.336426,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "RX68TWL",
+            "confidence": 85.276863,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 149.880493,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 492,
+                    "y": 324
+                },
+                {
+                    "x": 1277,
+                    "y": 331
+                },
+                {
+                    "x": 1277,
+                    "y": 511
+                },
+                {
+                    "x": 492,
+                    "y": 504
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "RX68TWL",
+                    "confidence": 85.276863,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "RX6BTWL",
+                    "confidence": 80.528954,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "RX69TWL",
+                    "confidence": 80.503746,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "RX68WL",
+                    "confidence": 80.391678,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "RX68TL",
+                    "confidence": 79.963646,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514794246",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514794167,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1543.328247,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "RX68TWL",
+            "confidence": 81.087379,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 172.663177,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 489,
+                    "y": 325
+                },
+                {
+                    "x": 1277,
+                    "y": 352
+                },
+                {
+                    "x": 1277,
+                    "y": 541
+                },
+                {
+                    "x": 489,
+                    "y": 514
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "RX68TW",
+                    "confidence": 84.288193,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "RX68W",
+                    "confidence": 82.797615,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "RX68TWL",
+                    "confidence": 81.087379,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "RX68T",
+                    "confidence": 79.879074,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "RX68WL",
+                    "confidence": 79.596794,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514795713",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514794289,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1721.933105,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "RX68TWL",
+            "confidence": 87.841301,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 250.554825,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 280,
+                    "y": 266
+                },
+                {
+                    "x": 1147,
+                    "y": 266
+                },
+                {
+                    "x": 1142,
+                    "y": 462
+                },
+                {
+                    "x": 280,
+                    "y": 462
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "RX68TWL",
+                    "confidence": 87.841301,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "RX68TL",
+                    "confidence": 84.061409,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "RX68THL",
+                    "confidence": 82.854774,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "RX68TNL",
+                    "confidence": 81.051147,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "RX68WL",
+                    "confidence": 77.668022,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514796014",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514794710,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1708.609741,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "RX68TWL",
+            "confidence": 87.000328,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 118.018784,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 265,
+                    "y": 242
+                },
+                {
+                    "x": 1132,
+                    "y": 278
+                },
+                {
+                    "x": 1124,
+                    "y": 470
+                },
+                {
+                    "x": 258,
+                    "y": 434
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "RX68TWL",
+                    "confidence": 87.000328,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "RX68TL",
+                    "confidence": 83.030678,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "RX68THL",
+                    "confidence": 80.41938,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "RX6BTWL",
+                    "confidence": 74.812691,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "RX6BTL",
+                    "confidence": 70.843048,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514796421",
+    "camera_id": 1,
+    "site_id": ""
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588514795502,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1657.155762,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "RX68TWL",
+            "confidence": 86.740074,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 163.362518,
+            "requested_topn": 5,
+            "coordinates": [
+                {
+                    "x": 228,
+                    "y": 228
+                },
+                {
+                    "x": 1100,
+                    "y": 228
+                },
+                {
+                    "x": 1083,
+                    "y": 418
+                },
+                {
+                    "x": 228,
+                    "y": 418
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "RX68TWL",
+                    "confidence": 86.740074,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "RX68TL",
+                    "confidence": 85.094643,
+                    "matches_template": 0
+                },
+                {
+                    "plate": "RX68THL",
+                    "confidence": 82.571365,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "RX68TML",
+                    "confidence": 79.858269,
+                    "matches_template": 1
+                },
+                {
+                    "plate": "RX68TNL",
+                    "confidence": 79.4618,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "-cam1-1588514797162",
+    "camera_id": 1,
+    "site_id": ""
+}
