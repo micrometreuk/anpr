@@ -85,7 +85,10 @@ app.post('/upload', (req, res) => {
 
 
 app.locals.points = "9.999";
-//app.locals.lpn = require('./lpn.json');
+
+//app.locals.lpn = require('./public/result.json');
+
+app.locals.lpn = require('http://localhost/1880/plate');
 
 
 
