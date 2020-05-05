@@ -1,5 +1,5 @@
 [Unit]
-Description=Stream MP4 files to a virtual loop device  systemd service.
+Description=Openalpr alprd systemd service.
 
 [Service]
 Type=simple

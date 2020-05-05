@@ -3,7 +3,7 @@ Description=Openalpr alprd systemd service.
 
 [Service]
 Type=simple
-ExecStart=/bin/bash /usr/bin/alprd -f
+ExecStart=/bin/bash /usr/bin/alprd.sh
 
 [Install]
 WantedBy=multi-user.target
