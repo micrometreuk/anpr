@@ -15622,3 +15622,7339 @@
     "camera_id": 1,
     "site_id": "micrometreuk anpr"
 }
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696711785,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1558.860107,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "BF09AVN",
+            "confidence": 87.227074,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 130.147049,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 403,
+                    "y": 387
+                },
+                {
+                    "x": 859,
+                    "y": 404
+                },
+                {
+                    "x": 855,
+                    "y": 508
+                },
+                {
+                    "x": 400,
+                    "y": 490
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "BF09AVN",
+                    "confidence": 87.227074,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696713347",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696711800,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1585.056152,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "BF09AVN",
+            "confidence": 87.227074,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 153.537216,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 403,
+                    "y": 387
+                },
+                {
+                    "x": 859,
+                    "y": 404
+                },
+                {
+                    "x": 855,
+                    "y": 508
+                },
+                {
+                    "x": 400,
+                    "y": 490
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "BF09AVN",
+                    "confidence": 87.227074,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696713389",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696711757,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1636.122559,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "BFO9AVN",
+            "confidence": 87.547676,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 147.674759,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 398,
+                    "y": 392
+                },
+                {
+                    "x": 855,
+                    "y": 410
+                },
+                {
+                    "x": 852,
+                    "y": 513
+                },
+                {
+                    "x": 394,
+                    "y": 496
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "BFO9AVN",
+                    "confidence": 87.547676,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696713397",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696711848,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1807.25,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "BF09AVN",
+            "confidence": 87.970413,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 281.511353,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 405,
+                    "y": 385
+                },
+                {
+                    "x": 861,
+                    "y": 407
+                },
+                {
+                    "x": 857,
+                    "y": 509
+                },
+                {
+                    "x": 401,
+                    "y": 488
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "BF09AVN",
+                    "confidence": 87.970413,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696713659",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696713390,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1643.828491,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "BF09AVN",
+            "confidence": 87.13092,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 159.027267,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 406,
+                    "y": 386
+                },
+                {
+                    "x": 861,
+                    "y": 404
+                },
+                {
+                    "x": 857,
+                    "y": 508
+                },
+                {
+                    "x": 402,
+                    "y": 491
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "BF09AVN",
+                    "confidence": 87.13092,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696715036",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696714753,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1806.275879,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LF54FBC",
+            "confidence": 81.602371,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 137.572021,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 291,
+                    "y": 266
+                },
+                {
+                    "x": 870,
+                    "y": 259
+                },
+                {
+                    "x": 876,
+                    "y": 389
+                },
+                {
+                    "x": 298,
+                    "y": 396
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LF54FBC",
+                    "confidence": 81.602371,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696716562",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696866575,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1705.322876,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LK90HX",
+            "confidence": 85.98204,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 132.070679,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 637,
+                    "y": 344
+                },
+                {
+                    "x": 1106,
+                    "y": 328
+                },
+                {
+                    "x": 1110,
+                    "y": 439
+                },
+                {
+                    "x": 641,
+                    "y": 457
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LK90HX",
+                    "confidence": 85.98204,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696868294",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696867165,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1976.809692,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LK190HX",
+            "confidence": 89.338142,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 215.453461,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 504,
+                    "y": 434
+                },
+                {
+                    "x": 1070,
+                    "y": 434
+                },
+                {
+                    "x": 1070,
+                    "y": 563
+                },
+                {
+                    "x": 504,
+                    "y": 563
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LK190HX",
+                    "confidence": 89.338142,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696869147",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696869173,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2083.081299,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "BF09AVN",
+            "confidence": 87.183983,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 211.338562,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 363,
+                    "y": 426
+                },
+                {
+                    "x": 826,
+                    "y": 444
+                },
+                {
+                    "x": 823,
+                    "y": 548
+                },
+                {
+                    "x": 359,
+                    "y": 530
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "BF09AVN",
+                    "confidence": 87.183983,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696871259",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696869628,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1782.450073,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "BFO9AVN",
+            "confidence": 88.241501,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 207.177795,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 393,
+                    "y": 398
+                },
+                {
+                    "x": 846,
+                    "y": 418
+                },
+                {
+                    "x": 843,
+                    "y": 522
+                },
+                {
+                    "x": 390,
+                    "y": 502
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "BFO9AVN",
+                    "confidence": 88.241501,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696871413",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696871447,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2172.425049,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LF54FBC",
+            "confidence": 84.055847,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 195.709427,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 165,
+                    "y": 283
+                },
+                {
+                    "x": 771,
+                    "y": 269
+                },
+                {
+                    "x": 777,
+                    "y": 404
+                },
+                {
+                    "x": 171,
+                    "y": 420
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LF54FBC",
+                    "confidence": 84.055847,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696873629",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696871897,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2251.133057,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LF54FBC",
+            "confidence": 82.582253,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 189.267227,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 248,
+                    "y": 271
+                },
+                {
+                    "x": 831,
+                    "y": 265
+                },
+                {
+                    "x": 832,
+                    "y": 394
+                },
+                {
+                    "x": 254,
+                    "y": 400
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LF54FBC",
+                    "confidence": 82.582253,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696874151",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696873656,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2172.347168,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "KC02HPU",
+            "confidence": 88.418823,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 126.415787,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 230,
+                    "y": 318
+                },
+                {
+                    "x": 851,
+                    "y": 348
+                },
+                {
+                    "x": 844,
+                    "y": 524
+                },
+                {
+                    "x": 224,
+                    "y": 494
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "KC02HPU",
+                    "confidence": 88.418823,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696875831",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696874169,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2206.231445,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "KC02HPU",
+            "confidence": 89.715271,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 203.218033,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 379,
+                    "y": 310
+                },
+                {
+                    "x": 983,
+                    "y": 338
+                },
+                {
+                    "x": 985,
+                    "y": 493
+                },
+                {
+                    "x": 381,
+                    "y": 465
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "KC02HPU",
+                    "confidence": 89.715271,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696876378",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696877463,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2057.446533,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "63RYZ",
+            "confidence": 80.076675,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 200.55574,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 0,
+                    "y": 77
+                },
+                {
+                    "x": 480,
+                    "y": 91
+                },
+                {
+                    "x": 476,
+                    "y": 206
+                },
+                {
+                    "x": -2,
+                    "y": 191
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "63RYZ",
+                    "confidence": 80.076675,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696879523",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696878126,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2111.029785,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "GU63RYZ",
+            "confidence": 87.158821,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 162.449066,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 144,
+                    "y": 335
+                },
+                {
+                    "x": 694,
+                    "y": 361
+                },
+                {
+                    "x": 690,
+                    "y": 477
+                },
+                {
+                    "x": 139,
+                    "y": 451
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "GU63RYZ",
+                    "confidence": 87.158821,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696880240",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696925741,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2042.746094,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LK190HX",
+            "confidence": 88.352089,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 175.655334,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 600,
+                    "y": 406
+                },
+                {
+                    "x": 1067,
+                    "y": 406
+                },
+                {
+                    "x": 1067,
+                    "y": 516
+                },
+                {
+                    "x": 600,
+                    "y": 516
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LK190HX",
+                    "confidence": 88.352089,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696927786",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696926353,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1937.291504,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LK90HX",
+            "confidence": 86.62368,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 213.671204,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 587,
+                    "y": 436
+                },
+                {
+                    "x": 1071,
+                    "y": 440
+                },
+                {
+                    "x": 1071,
+                    "y": 552
+                },
+                {
+                    "x": 587,
+                    "y": 548
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LK90HX",
+                    "confidence": 86.62368,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696928293",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696926629,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2185.36499,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LK190HX",
+            "confidence": 88.8759,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 156.797729,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 508,
+                    "y": 435
+                },
+                {
+                    "x": 1071,
+                    "y": 429
+                },
+                {
+                    "x": 1076,
+                    "y": 555
+                },
+                {
+                    "x": 513,
+                    "y": 561
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LK190HX",
+                    "confidence": 88.8759,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696928817",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696927803,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1962.036255,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "FG9AN",
+            "confidence": 79.952698,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 212.194138,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 160,
+                    "y": 447
+                },
+                {
+                    "x": 585,
+                    "y": 443
+                },
+                {
+                    "x": 588,
+                    "y": 537
+                },
+                {
+                    "x": 164,
+                    "y": 541
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "FG9AN",
+                    "confidence": 79.952698,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696929770",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696929569,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1781.942261,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "BF09AVN",
+            "confidence": 88.230568,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 178.101105,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 394,
+                    "y": 398
+                },
+                {
+                    "x": 847,
+                    "y": 418
+                },
+                {
+                    "x": 844,
+                    "y": 520
+                },
+                {
+                    "x": 390,
+                    "y": 500
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "BF09AVN",
+                    "confidence": 88.230568,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696931354",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696933309,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2052.996582,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "KCO2HPU",
+            "confidence": 90.259399,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 199.743546,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 341,
+                    "y": 304
+                },
+                {
+                    "x": 967,
+                    "y": 331
+                },
+                {
+                    "x": 961,
+                    "y": 488
+                },
+                {
+                    "x": 335,
+                    "y": 461
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "KCO2HPU",
+                    "confidence": 90.259399,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696935365",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696933181,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2189.809326,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "KC02HPU",
+            "confidence": 90.316322,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 199.157684,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 365,
+                    "y": 319
+                },
+                {
+                    "x": 986,
+                    "y": 319
+                },
+                {
+                    "x": 986,
+                    "y": 456
+                },
+                {
+                    "x": 365,
+                    "y": 456
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "KC02HPU",
+                    "confidence": 90.316322,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696935373",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696937077,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2124.880615,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "GU63RYZ",
+            "confidence": 87.857765,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 160.941971,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 138,
+                    "y": 324
+                },
+                {
+                    "x": 684,
+                    "y": 354
+                },
+                {
+                    "x": 680,
+                    "y": 469
+                },
+                {
+                    "x": 134,
+                    "y": 438
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "GU63RYZ",
+                    "confidence": 87.857765,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696939205",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696937621,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1748.019897,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "GU63RYZ",
+            "confidence": 87.158821,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 148.626175,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 144,
+                    "y": 335
+                },
+                {
+                    "x": 694,
+                    "y": 361
+                },
+                {
+                    "x": 690,
+                    "y": 477
+                },
+                {
+                    "x": 139,
+                    "y": 451
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "GU63RYZ",
+                    "confidence": 87.158821,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696939372",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696945219,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1824.379517,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LG14XWE",
+            "confidence": 83.909561,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 185.78093,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 223,
+                    "y": 247
+                },
+                {
+                    "x": 1225,
+                    "y": 258
+                },
+                {
+                    "x": 1225,
+                    "y": 491
+                },
+                {
+                    "x": 223,
+                    "y": 464
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LG14XWE",
+                    "confidence": 83.909561,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696947056",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696945398,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1986.748291,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LG14XWE",
+            "confidence": 83.76664,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 211.04158,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 239,
+                    "y": 262
+                },
+                {
+                    "x": 1279,
+                    "y": 290
+                },
+                {
+                    "x": 1279,
+                    "y": 542
+                },
+                {
+                    "x": 239,
+                    "y": 515
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LG14XWE",
+                    "confidence": 83.76664,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696947387",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696945693,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2143.19751,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LG14XE",
+            "confidence": 83.437515,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 192.609695,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 183,
+                    "y": 268
+                },
+                {
+                    "x": 1273,
+                    "y": 268
+                },
+                {
+                    "x": 1273,
+                    "y": 524
+                },
+                {
+                    "x": 183,
+                    "y": 524
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LG14XE",
+                    "confidence": 83.437515,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696947842",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696946941,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1953.50293,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LG14XWE",
+            "confidence": 83.635025,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 141.267349,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 4,
+                    "y": 246
+                },
+                {
+                    "x": 1200,
+                    "y": 246
+                },
+                {
+                    "x": 1200,
+                    "y": 510
+                },
+                {
+                    "x": 4,
+                    "y": 510
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LG14XWE",
+                    "confidence": 83.635025,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696948897",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696950989,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2447.61499,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LC67ETE",
+            "confidence": 88.143784,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 179.779602,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 0,
+                    "y": 237
+                },
+                {
+                    "x": 971,
+                    "y": 237
+                },
+                {
+                    "x": 971,
+                    "y": 453
+                },
+                {
+                    "x": 0,
+                    "y": 453
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LC67ETE",
+                    "confidence": 88.143784,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696953440",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696951851,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2614.979248,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LC67ETE",
+            "confidence": 88.642212,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 185.904373,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 192,
+                    "y": 232
+                },
+                {
+                    "x": 1277,
+                    "y": 252
+                },
+                {
+                    "x": 1277,
+                    "y": 511
+                },
+                {
+                    "x": 192,
+                    "y": 491
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LC67ETE",
+                    "confidence": 88.642212,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696954484",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696952297,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2259.643555,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LC67ETE",
+            "confidence": 88.577553,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 147.047379,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 211,
+                    "y": 52
+                },
+                {
+                    "x": 1275,
+                    "y": 90
+                },
+                {
+                    "x": 1275,
+                    "y": 302
+                },
+                {
+                    "x": 211,
+                    "y": 264
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LC67ETE",
+                    "confidence": 88.577553,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696954571",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696954770,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2093.627197,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "Y2JGX",
+            "confidence": 80.18396,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 139.785004,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 422,
+                    "y": 166
+                },
+                {
+                    "x": 1175,
+                    "y": 173
+                },
+                {
+                    "x": 1175,
+                    "y": 351
+                },
+                {
+                    "x": 422,
+                    "y": 344
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "Y2JGX",
+                    "confidence": 80.18396,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696956866",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696955739,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2103.991211,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "YB12JGX",
+            "confidence": 85.158257,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 179.094437,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 504,
+                    "y": 178
+                },
+                {
+                    "x": 1257,
+                    "y": 185
+                },
+                {
+                    "x": 1257,
+                    "y": 363
+                },
+                {
+                    "x": 504,
+                    "y": 356
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "YB12JGX",
+                    "confidence": 85.158257,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696957862",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696958141,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2250.837891,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "X988JSK",
+            "confidence": 85.848961,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 202.583115,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 245,
+                    "y": 124
+                },
+                {
+                    "x": 982,
+                    "y": 165
+                },
+                {
+                    "x": 976,
+                    "y": 303
+                },
+                {
+                    "x": 239,
+                    "y": 259
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "X988JSK",
+                    "confidence": 85.848961,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696960395",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696958270,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2123.947998,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "X888JSK",
+            "confidence": 88.36174,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 176.475922,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 286,
+                    "y": 145
+                },
+                {
+                    "x": 1034,
+                    "y": 172
+                },
+                {
+                    "x": 1029,
+                    "y": 317
+                },
+                {
+                    "x": 286,
+                    "y": 288
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "X888JSK",
+                    "confidence": 88.36174,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696960397",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696958697,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2217.80542,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "898JSK",
+            "confidence": 86.948608,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 210.369888,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 260,
+                    "y": 155
+                },
+                {
+                    "x": 1032,
+                    "y": 175
+                },
+                {
+                    "x": 1032,
+                    "y": 328
+                },
+                {
+                    "x": 260,
+                    "y": 304
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "898JSK",
+                    "confidence": 86.948608,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696960917",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696959501,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2049.491943,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "888JSK",
+            "confidence": 85.885674,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 172.058762,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 209,
+                    "y": 204
+                },
+                {
+                    "x": 1072,
+                    "y": 213
+                },
+                {
+                    "x": 1072,
+                    "y": 379
+                },
+                {
+                    "x": 209,
+                    "y": 370
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "888JSK",
+                    "confidence": 85.885674,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696961569",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696960416,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2299.258057,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "X899JSK",
+            "confidence": 85.821114,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 204.268906,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 150,
+                    "y": 182
+                },
+                {
+                    "x": 1082,
+                    "y": 216
+                },
+                {
+                    "x": 1082,
+                    "y": 395
+                },
+                {
+                    "x": 144,
+                    "y": 356
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "X899JSK",
+                    "confidence": 85.821114,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696962728",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696962694,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1889.141846,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "MF650VK",
+            "confidence": 88.002762,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 144.078781,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 126,
+                    "y": 321
+                },
+                {
+                    "x": 850,
+                    "y": 294
+                },
+                {
+                    "x": 855,
+                    "y": 434
+                },
+                {
+                    "x": 131,
+                    "y": 461
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "MF650VK",
+                    "confidence": 88.002762,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696964592",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696962794,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2242.694336,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "F650VK",
+            "confidence": 86.554756,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 217.384995,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 227,
+                    "y": 202
+                },
+                {
+                    "x": 941,
+                    "y": 208
+                },
+                {
+                    "x": 941,
+                    "y": 362
+                },
+                {
+                    "x": 227,
+                    "y": 356
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "F650VK",
+                    "confidence": 86.554756,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696965039",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696963389,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2040.304321,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "F650VK",
+            "confidence": 86.554756,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 179.67009,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 227,
+                    "y": 202
+                },
+                {
+                    "x": 941,
+                    "y": 208
+                },
+                {
+                    "x": 941,
+                    "y": 362
+                },
+                {
+                    "x": 227,
+                    "y": 356
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "F650VK",
+                    "confidence": 86.554756,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696965431",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696966714,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2388.138672,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "KR60A",
+            "confidence": 82.460754,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 163.535629,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 12,
+                    "y": 318
+                },
+                {
+                    "x": 918,
+                    "y": 361
+                },
+                {
+                    "x": 909,
+                    "y": 531
+                },
+                {
+                    "x": 4,
+                    "y": 497
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "KR60A",
+                    "confidence": 82.460754,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696969105",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696967631,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2141.734375,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "KR16OAW",
+            "confidence": 84.91626,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 226.75032,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 6,
+                    "y": 307
+                },
+                {
+                    "x": 931,
+                    "y": 402
+                },
+                {
+                    "x": 905,
+                    "y": 592
+                },
+                {
+                    "x": -11,
+                    "y": 497
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "KR16OAW",
+                    "confidence": 84.91626,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696969776",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696970509,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1863.004395,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LP68USE",
+            "confidence": 85.395683,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 226.677277,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 391,
+                    "y": 240
+                },
+                {
+                    "x": 1279,
+                    "y": 252
+                },
+                {
+                    "x": 1279,
+                    "y": 457
+                },
+                {
+                    "x": 391,
+                    "y": 446
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LP68USE",
+                    "confidence": 85.395683,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696972375",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696970389,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2036.825684,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LP68USE",
+            "confidence": 86.760094,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 165.135071,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 414,
+                    "y": 253
+                },
+                {
+                    "x": 1275,
+                    "y": 269
+                },
+                {
+                    "x": 1275,
+                    "y": 461
+                },
+                {
+                    "x": 414,
+                    "y": 446
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LP68USE",
+                    "confidence": 86.760094,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696972429",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696970346,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2436.967773,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "L9U5E",
+            "confidence": 76.821915,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 253.819687,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 401,
+                    "y": 85
+                },
+                {
+                    "x": 977,
+                    "y": 50
+                },
+                {
+                    "x": 982,
+                    "y": 191
+                },
+                {
+                    "x": 407,
+                    "y": 226
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "L9U5E",
+                    "confidence": 76.821915,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696972785",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696971320,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2099.578613,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LP68USE",
+            "confidence": 86.424614,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 325.617401,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 327,
+                    "y": 205
+                },
+                {
+                    "x": 1277,
+                    "y": 205
+                },
+                {
+                    "x": 1277,
+                    "y": 426
+                },
+                {
+                    "x": 327,
+                    "y": 426
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LP68USE",
+                    "confidence": 86.424614,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696973422",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696976622,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1686.291016,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LC07YWW",
+            "confidence": 86.654594,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 206.742599,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 101,
+                    "y": 98
+                },
+                {
+                    "x": 940,
+                    "y": 127
+                },
+                {
+                    "x": 940,
+                    "y": 304
+                },
+                {
+                    "x": 101,
+                    "y": 275
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LC07YWW",
+                    "confidence": 86.654594,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696978310",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696976528,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2228.568115,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LC07YWW",
+            "confidence": 82.399292,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 252.75647,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 15,
+                    "y": 82
+                },
+                {
+                    "x": 812,
+                    "y": 97
+                },
+                {
+                    "x": 812,
+                    "y": 275
+                },
+                {
+                    "x": 15,
+                    "y": 260
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LC07YWW",
+                    "confidence": 82.399292,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696978759",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696976925,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2301.903809,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LCO7YWW",
+            "confidence": 86.309288,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 180.598984,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 174,
+                    "y": 126
+                },
+                {
+                    "x": 1011,
+                    "y": 144
+                },
+                {
+                    "x": 1005,
+                    "y": 319
+                },
+                {
+                    "x": 174,
+                    "y": 301
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LCO7YWW",
+                    "confidence": 86.309288,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696979230",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696978207,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2339.661621,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LC07YWW",
+            "confidence": 87.376167,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 183.62207,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 290,
+                    "y": 158
+                },
+                {
+                    "x": 1176,
+                    "y": 194
+                },
+                {
+                    "x": 1163,
+                    "y": 375
+                },
+                {
+                    "x": 283,
+                    "y": 339
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LC07YWW",
+                    "confidence": 87.376167,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696980549",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696979251,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2229.791504,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LB7KPE",
+            "confidence": 86.163887,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 241.168396,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 204,
+                    "y": 217
+                },
+                {
+                    "x": 1012,
+                    "y": 248
+                },
+                {
+                    "x": 1012,
+                    "y": 427
+                },
+                {
+                    "x": 204,
+                    "y": 396
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LB7KPE",
+                    "confidence": 86.163887,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696981483",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696979891,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2265.000244,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LB17KPE",
+            "confidence": 87.360542,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 188.450195,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 148,
+                    "y": 218
+                },
+                {
+                    "x": 1018,
+                    "y": 263
+                },
+                {
+                    "x": 1011,
+                    "y": 427
+                },
+                {
+                    "x": 142,
+                    "y": 379
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LB17KPE",
+                    "confidence": 87.360542,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696982167",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696980406,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2132.280518,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LB17KPE",
+            "confidence": 86.586113,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 174.400528,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 127,
+                    "y": 205
+                },
+                {
+                    "x": 1001,
+                    "y": 213
+                },
+                {
+                    "x": 1001,
+                    "y": 408
+                },
+                {
+                    "x": 127,
+                    "y": 400
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LB17KPE",
+                    "confidence": 86.586113,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696982541",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696983805,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1670.315063,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LA17ONC",
+            "confidence": 87.417191,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 138.079178,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 101,
+                    "y": 203
+                },
+                {
+                    "x": 1137,
+                    "y": 242
+                },
+                {
+                    "x": 1123,
+                    "y": 455
+                },
+                {
+                    "x": 93,
+                    "y": 416
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LA17ONC",
+                    "confidence": 87.417191,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696985478",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696984109,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1649.030029,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LA17ONC",
+            "confidence": 87.918602,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 116.98896,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 90,
+                    "y": 207
+                },
+                {
+                    "x": 1130,
+                    "y": 216
+                },
+                {
+                    "x": 1124,
+                    "y": 436
+                },
+                {
+                    "x": 90,
+                    "y": 428
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LA17ONC",
+                    "confidence": 87.918602,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696985761",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696987252,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2414.106689,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "SE60HA0",
+            "confidence": 89.609352,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 190.967422,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 126,
+                    "y": 418
+                },
+                {
+                    "x": 1247,
+                    "y": 466
+                },
+                {
+                    "x": 1227,
+                    "y": 680
+                },
+                {
+                    "x": 118,
+                    "y": 632
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "SE60HA0",
+                    "confidence": 89.609352,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696989669",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696987589,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2479.948486,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "SE60HA0",
+            "confidence": 88.961258,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 225.742844,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 117,
+                    "y": 304
+                },
+                {
+                    "x": 1272,
+                    "y": 341
+                },
+                {
+                    "x": 1245,
+                    "y": 552
+                },
+                {
+                    "x": 117,
+                    "y": 516
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "SE60HA0",
+                    "confidence": 88.961258,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696990074",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696988334,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2396.667236,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "SE6OHAO",
+            "confidence": 89.338135,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 62.377972,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 77,
+                    "y": 270
+                },
+                {
+                    "x": 1230,
+                    "y": 311
+                },
+                {
+                    "x": 1196,
+                    "y": 528
+                },
+                {
+                    "x": 77,
+                    "y": 488
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "SE6OHAO",
+                    "confidence": 89.338135,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696990733",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696991165,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1878.10144,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "H1CRG",
+            "confidence": 86.977341,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 107.84446,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 53,
+                    "y": 97
+                },
+                {
+                    "x": 928,
+                    "y": 145
+                },
+                {
+                    "x": 921,
+                    "y": 338
+                },
+                {
+                    "x": 46,
+                    "y": 289
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "H1CRG",
+                    "confidence": 86.977341,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696993055",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696991465,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2204.803711,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "H1CRG",
+            "confidence": 86.441734,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 153.687958,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 192,
+                    "y": 102
+                },
+                {
+                    "x": 1075,
+                    "y": 125
+                },
+                {
+                    "x": 1075,
+                    "y": 321
+                },
+                {
+                    "x": 192,
+                    "y": 298
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "H1CRG",
+                    "confidence": 86.441734,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696993672",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696991633,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2086.407715,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "H1CRG",
+            "confidence": 87.596703,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 177.576721,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 234,
+                    "y": 159
+                },
+                {
+                    "x": 1112,
+                    "y": 168
+                },
+                {
+                    "x": 1107,
+                    "y": 357
+                },
+                {
+                    "x": 234,
+                    "y": 348
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "H1CRG",
+                    "confidence": 87.596703,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696993722",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588696992640,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2231.457764,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "H1CRG",
+            "confidence": 85.182137,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 250.317596,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 251,
+                    "y": 166
+                },
+                {
+                    "x": 1078,
+                    "y": 187
+                },
+                {
+                    "x": 1078,
+                    "y": 378
+                },
+                {
+                    "x": 251,
+                    "y": 357
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "H1CRG",
+                    "confidence": 85.182137,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588696994874",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697012657,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2709.73999,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "GF63EPV",
+            "confidence": 88.460121,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 241.936447,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 41,
+                    "y": 208
+                },
+                {
+                    "x": 1276,
+                    "y": 208
+                },
+                {
+                    "x": 1276,
+                    "y": 433
+                },
+                {
+                    "x": 64,
+                    "y": 433
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "GF63EPV",
+                    "confidence": 88.460121,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697015369",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697020790,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2231.705811,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "F8RWD",
+            "confidence": 84.730713,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 169.050964,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 531,
+                    "y": 267
+                },
+                {
+                    "x": 1277,
+                    "y": 232
+                },
+                {
+                    "x": 1289,
+                    "y": 399
+                },
+                {
+                    "x": 543,
+                    "y": 434
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "F8RWD",
+                    "confidence": 84.730713,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697023024",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697020937,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2445.199219,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "F8RWD",
+            "confidence": 85.703629,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 77.533257,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 366,
+                    "y": 306
+                },
+                {
+                    "x": 1183,
+                    "y": 306
+                },
+                {
+                    "x": 1183,
+                    "y": 476
+                },
+                {
+                    "x": 366,
+                    "y": 476
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "F8RWD",
+                    "confidence": 85.703629,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697023385",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697020831,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2586.285156,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "F8RWD",
+            "confidence": 87.814064,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 225.155792,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 387,
+                    "y": 303
+                },
+                {
+                    "x": 1185,
+                    "y": 303
+                },
+                {
+                    "x": 1185,
+                    "y": 474
+                },
+                {
+                    "x": 387,
+                    "y": 474
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "F8RWD",
+                    "confidence": 87.814064,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697023424",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697021701,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2460.899902,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "F8RWD",
+            "confidence": 85.560753,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 192.461594,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 358,
+                    "y": 300
+                },
+                {
+                    "x": 1152,
+                    "y": 311
+                },
+                {
+                    "x": 1152,
+                    "y": 479
+                },
+                {
+                    "x": 358,
+                    "y": 479
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "F8RWD",
+                    "confidence": 85.560753,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697024165",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697023469,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2173.793945,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LP07AUU",
+            "confidence": 85.696243,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 171.282883,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 432,
+                    "y": 375
+                },
+                {
+                    "x": 1029,
+                    "y": 375
+                },
+                {
+                    "x": 1029,
+                    "y": 496
+                },
+                {
+                    "x": 432,
+                    "y": 496
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LP07AUU",
+                    "confidence": 85.696243,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697025646",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697023401,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2296.010986,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LP07AUU",
+            "confidence": 86.403366,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 176.411026,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 406,
+                    "y": 439
+                },
+                {
+                    "x": 954,
+                    "y": 420
+                },
+                {
+                    "x": 963,
+                    "y": 543
+                },
+                {
+                    "x": 415,
+                    "y": 565
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LP07AUU",
+                    "confidence": 86.403366,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697025700",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697024191,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2112.4646,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LP07AUU",
+            "confidence": 87.223831,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 141.50621,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 479,
+                    "y": 371
+                },
+                {
+                    "x": 1023,
+                    "y": 354
+                },
+                {
+                    "x": 1028,
+                    "y": 482
+                },
+                {
+                    "x": 481,
+                    "y": 491
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LP07AUU",
+                    "confidence": 87.223831,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697026306",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697026339,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2601.165527,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "Y988BA",
+            "confidence": 87.010094,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 158.696304,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": -8,
+                    "y": 180
+                },
+                {
+                    "x": 1271,
+                    "y": 148
+                },
+                {
+                    "x": 1279,
+                    "y": 432
+                },
+                {
+                    "x": 0,
+                    "y": 464
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "Y988BA",
+                    "confidence": 87.010094,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697028961",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697027281,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2863.473877,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "Y8888A",
+            "confidence": 87.751839,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 274.430756,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": -1,
+                    "y": 174
+                },
+                {
+                    "x": 1219,
+                    "y": 174
+                },
+                {
+                    "x": 1219,
+                    "y": 431
+                },
+                {
+                    "x": -1,
+                    "y": 431
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "Y8888A",
+                    "confidence": 87.751839,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697030147",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697038350,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1848.853394,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "JDU8A",
+            "confidence": 83.747673,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 265.483978,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 152,
+                    "y": 228
+                },
+                {
+                    "x": 567,
+                    "y": 244
+                },
+                {
+                    "x": 567,
+                    "y": 350
+                },
+                {
+                    "x": 152,
+                    "y": 334
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "JDU8A",
+                    "confidence": 83.747673,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697040202",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697047957,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2265.969727,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LX120HZ",
+            "confidence": 85.572556,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 163.081802,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 220,
+                    "y": 146
+                },
+                {
+                    "x": 965,
+                    "y": 169
+                },
+                {
+                    "x": 965,
+                    "y": 346
+                },
+                {
+                    "x": 220,
+                    "y": 323
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LX120HZ",
+                    "confidence": 85.572556,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697050225",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697048041,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2344.118164,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LX20M",
+            "confidence": 84.737274,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 219.431641,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 47,
+                    "y": 228
+                },
+                {
+                    "x": 1079,
+                    "y": 254
+                },
+                {
+                    "x": 1079,
+                    "y": 505
+                },
+                {
+                    "x": 47,
+                    "y": 478
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LX20M",
+                    "confidence": 84.737274,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697050388",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697048708,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2332.268066,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LX12OMZ",
+            "confidence": 87.33049,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 215.732788,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 77,
+                    "y": 214
+                },
+                {
+                    "x": 1276,
+                    "y": 214
+                },
+                {
+                    "x": 1276,
+                    "y": 472
+                },
+                {
+                    "x": 77,
+                    "y": 472
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LX12OMZ",
+                    "confidence": 87.33049,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697051043",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697052302,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2256.151611,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LJ5USY",
+            "confidence": 84.483574,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 154.596298,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 331,
+                    "y": 289
+                },
+                {
+                    "x": 1121,
+                    "y": 316
+                },
+                {
+                    "x": 1112,
+                    "y": 511
+                },
+                {
+                    "x": 322,
+                    "y": 476
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LJ5USY",
+                    "confidence": 84.483574,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697054560",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697052427,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2514.684082,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LJD5USY",
+            "confidence": 82.100723,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 172.798523,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 325,
+                    "y": 289
+                },
+                {
+                    "x": 1135,
+                    "y": 343
+                },
+                {
+                    "x": 1117,
+                    "y": 543
+                },
+                {
+                    "x": 307,
+                    "y": 489
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LJD5USY",
+                    "confidence": 82.100723,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697054944",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697053263,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2252.94873,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LJ5USY",
+            "confidence": 84.214684,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 176.460251,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 248,
+                    "y": 322
+                },
+                {
+                    "x": 1095,
+                    "y": 295
+                },
+                {
+                    "x": 1104,
+                    "y": 486
+                },
+                {
+                    "x": 257,
+                    "y": 504
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LJ5USY",
+                    "confidence": 84.214684,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697055527",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697054005,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2339.254639,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LJ5US",
+            "confidence": 83.315163,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 120.689064,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 324,
+                    "y": 319
+                },
+                {
+                    "x": 1187,
+                    "y": 319
+                },
+                {
+                    "x": 1187,
+                    "y": 503
+                },
+                {
+                    "x": 324,
+                    "y": 503
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LJ5US",
+                    "confidence": 83.315163,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697056350",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697059893,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1836.488403,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "LF1NYS",
+            "confidence": 78.823509,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 234.370071,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 117,
+                    "y": -20
+                },
+                {
+                    "x": 1183,
+                    "y": -12
+                },
+                {
+                    "x": 1183,
+                    "y": 231
+                },
+                {
+                    "x": 117,
+                    "y": 222
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "LF1NYS",
+                    "confidence": 78.823509,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697061734",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697071021,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2056.345703,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "J800F0X",
+            "confidence": 86.055687,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 208.604599,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 126,
+                    "y": 56
+                },
+                {
+                    "x": 688,
+                    "y": 62
+                },
+                {
+                    "x": 688,
+                    "y": 190
+                },
+                {
+                    "x": 126,
+                    "y": 184
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "J800F0X",
+                    "confidence": 86.055687,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697073080",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697071125,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2010.255615,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "J800F0X",
+            "confidence": 89.024529,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 185.761047,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 281,
+                    "y": 260
+                },
+                {
+                    "x": 980,
+                    "y": 235
+                },
+                {
+                    "x": 986,
+                    "y": 386
+                },
+                {
+                    "x": 287,
+                    "y": 414
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "J800F0X",
+                    "confidence": 89.024529,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697073138",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697071604,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2455.621826,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "J900F0X",
+            "confidence": 88.817123,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 229.33139,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 282,
+                    "y": 278
+                },
+                {
+                    "x": 1015,
+                    "y": 251
+                },
+                {
+                    "x": 1022,
+                    "y": 412
+                },
+                {
+                    "x": 289,
+                    "y": 441
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "J900F0X",
+                    "confidence": 88.817123,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697074062",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697072125,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2080.942383,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "J900F0X",
+            "confidence": 88.556168,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 150.629715,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 279,
+                    "y": 273
+                },
+                {
+                    "x": 1146,
+                    "y": 264
+                },
+                {
+                    "x": 1148,
+                    "y": 451
+                },
+                {
+                    "x": 287,
+                    "y": 459
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "J900F0X",
+                    "confidence": 88.556168,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697074209",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697090500,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1936.186279,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "BV6MFX",
+            "confidence": 80.354332,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 145.529526,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 185,
+                    "y": 334
+                },
+                {
+                    "x": 1194,
+                    "y": 361
+                },
+                {
+                    "x": 1185,
+                    "y": 570
+                },
+                {
+                    "x": 176,
+                    "y": 543
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "BV6MFX",
+                    "confidence": 80.354332,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697092439",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697090705,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2128.176514,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "8VMFX",
+            "confidence": 79.516182,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 160.148849,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 176,
+                    "y": 318
+                },
+                {
+                    "x": 1200,
+                    "y": 337
+                },
+                {
+                    "x": 1191,
+                    "y": 556
+                },
+                {
+                    "x": 167,
+                    "y": 537
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "8VMFX",
+                    "confidence": 79.516182,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697092836",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697091937,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2006.266846,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "8V16MFX",
+            "confidence": 80.897781,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 217.274048,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 183,
+                    "y": 298
+                },
+                {
+                    "x": 1211,
+                    "y": 324
+                },
+                {
+                    "x": 1202,
+                    "y": 546
+                },
+                {
+                    "x": 174,
+                    "y": 520
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "8V16MFX",
+                    "confidence": 80.897781,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697093956",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697092864,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2588.497314,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "061YCJ",
+            "confidence": 85.573418,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 212.897766,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 2,
+                    "y": 343
+                },
+                {
+                    "x": 1301,
+                    "y": 343
+                },
+                {
+                    "x": 1301,
+                    "y": 619
+                },
+                {
+                    "x": 2,
+                    "y": 619
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "061YCJ",
+                    "confidence": 85.573418,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697095456",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697094021,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 3080.147217,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "A061YCJ",
+            "confidence": 85.315674,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 194.268967,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 12,
+                    "y": 259
+                },
+                {
+                    "x": 1277,
+                    "y": 304
+                },
+                {
+                    "x": 1268,
+                    "y": 576
+                },
+                {
+                    "x": 3,
+                    "y": 531
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "A061YCJ",
+                    "confidence": 85.315674,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697097105",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697096982,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2497.641602,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "T14KK",
+            "confidence": 80.362183,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 183.269806,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 74,
+                    "y": 375
+                },
+                {
+                    "x": 964,
+                    "y": 395
+                },
+                {
+                    "x": 958,
+                    "y": 559
+                },
+                {
+                    "x": 89,
+                    "y": 540
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "T14KK",
+                    "confidence": 80.362183,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697099482",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697097113,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2476.795654,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "T414KK",
+            "confidence": 79.724159,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 227.444122,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 278,
+                    "y": 396
+                },
+                {
+                    "x": 1132,
+                    "y": 431
+                },
+                {
+                    "x": 1125,
+                    "y": 616
+                },
+                {
+                    "x": 271,
+                    "y": 581
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "T414KK",
+                    "confidence": 79.724159,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697099593",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697099612,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1720.348022,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "NJ64KNH",
+            "confidence": 85.220276,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 192.436249,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 81,
+                    "y": 312
+                },
+                {
+                    "x": 1190,
+                    "y": 270
+                },
+                {
+                    "x": 1205,
+                    "y": 503
+                },
+                {
+                    "x": 97,
+                    "y": 544
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "NJ64KNH",
+                    "confidence": 85.220276,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697101335",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697099495,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2213.985596,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "NJ64KNH",
+            "confidence": 84.924927,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 170.654816,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": -2,
+                    "y": 293
+                },
+                {
+                    "x": 1096,
+                    "y": 315
+                },
+                {
+                    "x": 1096,
+                    "y": 564
+                },
+                {
+                    "x": -2,
+                    "y": 542
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "NJ64KNH",
+                    "confidence": 84.924927,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697101712",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697100465,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2288.061035,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "NJ64KNH",
+            "confidence": 87.481895,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 179.245636,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 92,
+                    "y": 300
+                },
+                {
+                    "x": 1186,
+                    "y": 269
+                },
+                {
+                    "x": 1201,
+                    "y": 501
+                },
+                {
+                    "x": 106,
+                    "y": 533
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "NJ64KNH",
+                    "confidence": 87.481895,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697102756",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697102442,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2814.634521,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "AR05DVW",
+            "confidence": 87.418129,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 218.218887,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 337,
+                    "y": 464
+                },
+                {
+                    "x": 1174,
+                    "y": 423
+                },
+                {
+                    "x": 1181,
+                    "y": 586
+                },
+                {
+                    "x": 344,
+                    "y": 627
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "AR05DVW",
+                    "confidence": 87.418129,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697105259",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697102787,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2835.365723,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "ARO5DVW",
+            "confidence": 87.96637,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 175.490677,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 287,
+                    "y": 363
+                },
+                {
+                    "x": 1081,
+                    "y": 328
+                },
+                {
+                    "x": 1073,
+                    "y": 488
+                },
+                {
+                    "x": 294,
+                    "y": 522
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "ARO5DVW",
+                    "confidence": 87.96637,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697105625",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697106433,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2078.398193,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "MT16CVC",
+            "confidence": 84.120644,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 114.495674,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 366,
+                    "y": 313
+                },
+                {
+                    "x": 1078,
+                    "y": 313
+                },
+                {
+                    "x": 1078,
+                    "y": 483
+                },
+                {
+                    "x": 366,
+                    "y": 483
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "MT16CVC",
+                    "confidence": 84.120644,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697108514",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697108353,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2291.647949,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "PL66XNV",
+            "confidence": 87.983894,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 164.453339,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 297,
+                    "y": 408
+                },
+                {
+                    "x": 1114,
+                    "y": 408
+                },
+                {
+                    "x": 1114,
+                    "y": 581
+                },
+                {
+                    "x": 297,
+                    "y": 581
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "PL66XNV",
+                    "confidence": 87.983894,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697110647",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697115395,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2133.586914,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "GK19CA",
+            "confidence": 81.195274,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 155.532944,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 117,
+                    "y": 172
+                },
+                {
+                    "x": 813,
+                    "y": 198
+                },
+                {
+                    "x": 807,
+                    "y": 359
+                },
+                {
+                    "x": 111,
+                    "y": 330
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "GK19CA",
+                    "confidence": 81.195274,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697117531",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697116182,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2253.855957,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "GK18NCA",
+            "confidence": 86.658379,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 143.40007,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 130,
+                    "y": 143
+                },
+                {
+                    "x": 854,
+                    "y": 156
+                },
+                {
+                    "x": 854,
+                    "y": 321
+                },
+                {
+                    "x": 130,
+                    "y": 309
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "GK18NCA",
+                    "confidence": 86.658379,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697118439",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697116913,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2534.321289,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "GK8NCA",
+            "confidence": 86.938797,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 232.070099,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 311,
+                    "y": 186
+                },
+                {
+                    "x": 1164,
+                    "y": 212
+                },
+                {
+                    "x": 1164,
+                    "y": 402
+                },
+                {
+                    "x": 311,
+                    "y": 376
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "GK8NCA",
+                    "confidence": 86.938797,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697119450",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697120526,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2000.30188,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "VE67APK",
+            "confidence": 88.543137,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 181.132538,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 62,
+                    "y": 228
+                },
+                {
+                    "x": 1162,
+                    "y": 219
+                },
+                {
+                    "x": 1170,
+                    "y": 451
+                },
+                {
+                    "x": 70,
+                    "y": 461
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "VE67APK",
+                    "confidence": 88.543137,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697122529",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697120583,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2185.592773,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "VE67APK",
+            "confidence": 87.322144,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 153.757309,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 106,
+                    "y": 32
+                },
+                {
+                    "x": 1277,
+                    "y": 41
+                },
+                {
+                    "x": 1277,
+                    "y": 281
+                },
+                {
+                    "x": 106,
+                    "y": 272
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "VE67APK",
+                    "confidence": 87.322144,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697122771",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697120665,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2273.064453,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "VE67APK",
+            "confidence": 88.147293,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 212.133163,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 97,
+                    "y": 76
+                },
+                {
+                    "x": 1277,
+                    "y": 76
+                },
+                {
+                    "x": 1277,
+                    "y": 315
+                },
+                {
+                    "x": 97,
+                    "y": 315
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "VE67APK",
+                    "confidence": 88.147293,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697122957",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697121646,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2479.536377,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "VE67APK",
+            "confidence": 88.944908,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 162.837006,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 108,
+                    "y": 30
+                },
+                {
+                    "x": 1259,
+                    "y": 19
+                },
+                {
+                    "x": 1260,
+                    "y": 261
+                },
+                {
+                    "x": 116,
+                    "y": 272
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "VE67APK",
+                    "confidence": 88.944908,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697124128",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697130211,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 4126.625,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "VK11XCM",
+            "confidence": 82.994667,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 309.203613,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 153,
+                    "y": 212
+                },
+                {
+                    "x": 1184,
+                    "y": 226
+                },
+                {
+                    "x": 1184,
+                    "y": 462
+                },
+                {
+                    "x": 153,
+                    "y": 449
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "VK11XCM",
+                    "confidence": 82.994667,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697134342",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697131435,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 3591.636719,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "VKHXCM",
+            "confidence": 83.749878,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 263.563538,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 197,
+                    "y": 126
+                },
+                {
+                    "x": 1276,
+                    "y": 155
+                },
+                {
+                    "x": 1276,
+                    "y": 398
+                },
+                {
+                    "x": 197,
+                    "y": 369
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "VKHXCM",
+                    "confidence": 83.749878,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697135035",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697139286,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 4997.922363,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "01B430",
+            "confidence": 85.523293,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 479.265137,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 221,
+                    "y": 284
+                },
+                {
+                    "x": 1173,
+                    "y": 254
+                },
+                {
+                    "x": 1180,
+                    "y": 460
+                },
+                {
+                    "x": 229,
+                    "y": 490
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "01B430",
+                    "confidence": 85.523293,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697144296",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697139181,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 5124.828125,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "0B430",
+            "confidence": 83.239113,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 442.202667,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 246,
+                    "y": 253
+                },
+                {
+                    "x": 1220,
+                    "y": 253
+                },
+                {
+                    "x": 1220,
+                    "y": 464
+                },
+                {
+                    "x": 246,
+                    "y": 464
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "0B430",
+                    "confidence": 83.239113,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697144355",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697141257,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 5371.211426,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "01B430",
+            "confidence": 84.022438,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 371.087219,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 194,
+                    "y": 248
+                },
+                {
+                    "x": 1154,
+                    "y": 239
+                },
+                {
+                    "x": 1162,
+                    "y": 439
+                },
+                {
+                    "x": 202,
+                    "y": 448
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "01B430",
+                    "confidence": 84.022438,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697146631",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697160973,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2541.880859,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "558703",
+            "confidence": 79.185646,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 207.932297,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 310,
+                    "y": 251
+                },
+                {
+                    "x": 457,
+                    "y": 253
+                },
+                {
+                    "x": 457,
+                    "y": 288
+                },
+                {
+                    "x": 310,
+                    "y": 287
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "558703",
+                    "confidence": 79.185646,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697163518",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697168752,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2173.880127,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "WV6NKK",
+            "confidence": 85.052193,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 134.95842,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 0,
+                    "y": 183
+                },
+                {
+                    "x": 1102,
+                    "y": 183
+                },
+                {
+                    "x": 1102,
+                    "y": 417
+                },
+                {
+                    "x": 0,
+                    "y": 417
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "WV6NKK",
+                    "confidence": 85.052193,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697170928",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697169008,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2086.252441,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "WV16NKK",
+            "confidence": 86.887337,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 157.571594,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 1,
+                    "y": 101
+                },
+                {
+                    "x": 1167,
+                    "y": 141
+                },
+                {
+                    "x": 1159,
+                    "y": 376
+                },
+                {
+                    "x": 1,
+                    "y": 337
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "WV16NKK",
+                    "confidence": 86.887337,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697171096",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697169826,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2379.352783,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "WV6NKK",
+            "confidence": 86.11602,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 117.634026,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 7,
+                    "y": 76
+                },
+                {
+                    "x": 1278,
+                    "y": 124
+                },
+                {
+                    "x": 1270,
+                    "y": 367
+                },
+                {
+                    "x": 0,
+                    "y": 320
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "WV6NKK",
+                    "confidence": 86.11602,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697172208",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697174313,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2174.320068,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "EK63HZ",
+            "confidence": 85.093079,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 234.300903,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": -4,
+                    "y": 258
+                },
+                {
+                    "x": 983,
+                    "y": 242
+                },
+                {
+                    "x": 990,
+                    "y": 450
+                },
+                {
+                    "x": 2,
+                    "y": 467
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "EK63HZ",
+                    "confidence": 85.093079,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697176490",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697174612,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1919.586792,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "EK63HCZ",
+            "confidence": 88.418198,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 218.879929,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 280,
+                    "y": 250
+                },
+                {
+                    "x": 1279,
+                    "y": 250
+                },
+                {
+                    "x": 1279,
+                    "y": 449
+                },
+                {
+                    "x": 280,
+                    "y": 449
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "EK63HCZ",
+                    "confidence": 88.418198,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697176534",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697174658,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2230.178955,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "EK63HC",
+            "confidence": 87.968964,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 206.183929,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 249,
+                    "y": 229
+                },
+                {
+                    "x": 1131,
+                    "y": 267
+                },
+                {
+                    "x": 1131,
+                    "y": 440
+                },
+                {
+                    "x": 249,
+                    "y": 415
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "EK63HC",
+                    "confidence": 87.968964,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697176890",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697175474,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2148.562012,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "EK63HCZ",
+            "confidence": 87.239967,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 184.61969,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 337,
+                    "y": 230
+                },
+                {
+                    "x": 1240,
+                    "y": 274
+                },
+                {
+                    "x": 1240,
+                    "y": 458
+                },
+                {
+                    "x": 337,
+                    "y": 414
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "EK63HCZ",
+                    "confidence": 87.239967,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697177625",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697176581,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2079.239502,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "H19UAE",
+            "confidence": 83.156479,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 200.363297,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 289,
+                    "y": 209
+                },
+                {
+                    "x": 1276,
+                    "y": 217
+                },
+                {
+                    "x": 1276,
+                    "y": 402
+                },
+                {
+                    "x": 289,
+                    "y": 394
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "H19UAE",
+                    "confidence": 83.156479,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697178663",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697176949,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2008.400879,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "H19UAE",
+            "confidence": 85.889236,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 253.398285,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 334,
+                    "y": 201
+                },
+                {
+                    "x": 1273,
+                    "y": 208
+                },
+                {
+                    "x": 1273,
+                    "y": 395
+                },
+                {
+                    "x": 334,
+                    "y": 387
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "H19UAE",
+                    "confidence": 85.889236,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697178974",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697177663,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2140.9646,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "H19UAE",
+            "confidence": 86.136322,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 219.857819,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 405,
+                    "y": 203
+                },
+                {
+                    "x": 1274,
+                    "y": 227
+                },
+                {
+                    "x": 1274,
+                    "y": 438
+                },
+                {
+                    "x": 405,
+                    "y": 414
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "H19UAE",
+                    "confidence": 86.136322,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697179808",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697177893,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1978.248901,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "H19UAE",
+            "confidence": 87.597054,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 224.50528,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 290,
+                    "y": 150
+                },
+                {
+                    "x": 1278,
+                    "y": 150
+                },
+                {
+                    "x": 1278,
+                    "y": 360
+                },
+                {
+                    "x": 290,
+                    "y": 360
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "H19UAE",
+                    "confidence": 87.597054,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697179874",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697181318,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2005.523071,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "YCO8LHZ",
+            "confidence": 89.785225,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 163.887299,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 248,
+                    "y": 286
+                },
+                {
+                    "x": 1105,
+                    "y": 273
+                },
+                {
+                    "x": 1102,
+                    "y": 445
+                },
+                {
+                    "x": 255,
+                    "y": 458
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "YCO8LHZ",
+                    "confidence": 89.785225,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697183326",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697181394,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2140.514404,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "YCO8LHZ",
+            "confidence": 89.785225,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 166.295914,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 248,
+                    "y": 286
+                },
+                {
+                    "x": 1105,
+                    "y": 273
+                },
+                {
+                    "x": 1102,
+                    "y": 445
+                },
+                {
+                    "x": 255,
+                    "y": 458
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "YCO8LHZ",
+                    "confidence": 89.785225,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697183537",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697182144,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2019.415527,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "YCO8LHZ",
+            "confidence": 89.318626,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 162.204422,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 248,
+                    "y": 279
+                },
+                {
+                    "x": 1105,
+                    "y": 267
+                },
+                {
+                    "x": 1102,
+                    "y": 445
+                },
+                {
+                    "x": 254,
+                    "y": 447
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "YCO8LHZ",
+                    "confidence": 89.318626,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697184167",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697184200,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 1844.135132,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "X69TL",
+            "confidence": 79.2808,
+            "matches_template": 0,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 178.681458,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 2,
+                    "y": 277
+                },
+                {
+                    "x": 730,
+                    "y": 277
+                },
+                {
+                    "x": 730,
+                    "y": 458
+                },
+                {
+                    "x": 2,
+                    "y": 458
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "X69TL",
+                    "confidence": 79.2808,
+                    "matches_template": 0
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697186050",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697185384,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2158.893066,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "RX68TWL",
+            "confidence": 84.208664,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 239.016113,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 500,
+                    "y": 288
+                },
+                {
+                    "x": 1283,
+                    "y": 317
+                },
+                {
+                    "x": 1276,
+                    "y": 509
+                },
+                {
+                    "x": 493,
+                    "y": 476
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "RX68TWL",
+                    "confidence": 84.208664,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697187546",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
+{
+    "version": 2,
+    "data_type": "alpr_results",
+    "epoch_time": 1588697186065,
+    "img_width": 1280,
+    "img_height": 720,
+    "processing_time_ms": 2096.209717,
+    "regions_of_interest": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 720
+        }
+    ],
+    "results": [
+        {
+            "plate": "RX68TWL",
+            "confidence": 86.985245,
+            "matches_template": 1,
+            "plate_index": 0,
+            "region": "gb",
+            "region_confidence": 0,
+            "processing_time_ms": 179.199493,
+            "requested_topn": 1,
+            "coordinates": [
+                {
+                    "x": 259,
+                    "y": 246
+                },
+                {
+                    "x": 1139,
+                    "y": 254
+                },
+                {
+                    "x": 1116,
+                    "y": 448
+                },
+                {
+                    "x": 259,
+                    "y": 440
+                }
+            ],
+            "candidates": [
+                {
+                    "plate": "RX68TWL",
+                    "confidence": 86.985245,
+                    "matches_template": 1
+                }
+            ]
+        }
+    ],
+    "uuid": "micrometreuk anpr-cam1-1588697188164",
+    "camera_id": 1,
+    "site_id": "micrometreuk anpr"
+}
