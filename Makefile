@@ -17,9 +17,3 @@ docker_stop:
 docker_restart:	
 	docker-compose stop
 	docker-compose start
-list_photos:	
-	ls -la public/uploads
-show_results:
-	cat public/result.txt 2>/dev/null || true
-start_anpr:	
-	./scripts/photoalpr.sh > public/result.txt
