@@ -18,6 +18,3 @@ docker_restart:
 	docker-compose stop
 	docker-compose start
 
-alpr_run:
-	for f in public/uploads/*.*; do  alpr -c gb -n 1 $f | awk {'print$2'} | tail -n 1  ; done> public/resu	      lts.txt
-
