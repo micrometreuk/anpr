@@ -19,4 +19,5 @@ docker_restart:
 	docker-compose start
 
 alpr_run:
-	bash -x scripts/photoalpr.sh > public/results.txt
+	for f in public/uploads/*.*; do  alpr -c gb -n 1 $f | awk {'print$2'} | tail -n 1  ; done> public/resu	      lts.txt
+
