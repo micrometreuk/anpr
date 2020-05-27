@@ -16,17 +16,17 @@
 	    {
                 "label": "anpr",
                 "nickname": "anpr",
-                "exec": "make start_anpr"
+                "exec": "make alpr_run"
             },            
 	    {
                 "label": "list photos",
                 "nickname": "photos",
-                "exec": "make list_photos"
+                "exec": "ls public/uploads"
             },            
 	    {
                 "label": "show result",
                 "nickname": "result",
-                "exec": " make show_results"
+                "exec": " pwd"
             }            
 
         ]

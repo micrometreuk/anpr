@@ -19,4 +19,4 @@ docker_restart:
 	docker-compose start
 
 alpr_run:
-	bash -x scripts/photoalpr.sh
+	bash -x scripts/photoalpr.sh > public/results.txt
