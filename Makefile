@@ -17,3 +17,6 @@ docker_stop:
 docker_restart:	
 	docker-compose stop
 	docker-compose start
+
+alpr_run:
+	bash -x scripts/photoalpr.sh
