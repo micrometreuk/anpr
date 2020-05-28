@@ -85,7 +85,7 @@ app.post('/upload', (req, res) => {
   });
 });
 
-app.locals.lpn = require('./public/alprresult.json');
+//app.locals.lpn = require('./public/alprresult.json');
 
 
 console.log('Micrometre OpenALPR started ' + config.get('listeningPort'));
