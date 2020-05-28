@@ -13,9 +13,11 @@ var config = config.get('config');
 var createError = require('http-errors');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+var bodyParser = require('body-parser')
 
-
+app.use(express.json()); //Used to parse JSON bodies
 app.use(express.static('assets/'));
+
 app.get('/', function (req, res) {
     res.render('index.ejs', {
         links: config.links,
@@ -83,6 +85,7 @@ app.post('/upload', (req, res) => {
   });
 });
 
+app.locals.lpn = require('./public/alprresult.json');
 
 
 console.log('Micrometre OpenALPR started ' + config.get('listeningPort'));
