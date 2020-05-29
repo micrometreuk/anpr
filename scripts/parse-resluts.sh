@@ -1,7 +1,6 @@
 #!/bin/bash
-cp public/*.json ~/Public/results/
-ls -la  ~/Public/results/
 
-for name in ~/Public/results*.json; do
-    cat ~/Public/results/*.json | jq
-done
+for f in public/*.json; do
+    cat public/alprresult.json | sed "s/null/{\""\registration\":"\"Absent\"}/g"  | jq '.' > public/result.json
+
+done   
