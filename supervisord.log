@@ -1,0 +1,4 @@
+2021-03-05 14:32:02,720 CRIT Supervisor running as root (no user in config file)
+2021-03-05 14:32:02,726 INFO supervisord started with pid 1
+2021-03-05 14:32:03,729 INFO spawned: 'app' with pid 10
+2021-03-05 14:32:04,976 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
