@@ -2,3 +2,10 @@
 2021-03-05 14:32:02,726 INFO supervisord started with pid 1
 2021-03-05 14:32:03,729 INFO spawned: 'app' with pid 10
 2021-03-05 14:32:04,976 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-05 14:37:47,978 WARN received SIGTERM indicating exit request
+2021-03-05 14:37:47,984 INFO waiting for app to die
+2021-03-05 14:37:48,986 INFO stopped: app (terminated by SIGTERM)
+2021-03-05 14:37:59,312 CRIT Supervisor running as root (no user in config file)
+2021-03-05 14:37:59,314 INFO supervisord started with pid 1
+2021-03-05 14:38:00,317 INFO spawned: 'app' with pid 11
+2021-03-05 14:38:01,559 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
