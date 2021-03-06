@@ -28,8 +28,15 @@
                 "nickname": "restartalpr",
                 "exec": "supervisorctl restart alprd"
             },
+
             {
-                "label": "alpr status/logs",
+                "label": "alpr status",
+                "nickname": "alprstatus",
+                "exec": "supervisorctl status"
+            },
+
+            {
+                "label": "alpr logs",
                 "nickname": "alprlogs",
                 "exec": "cat supervisord.log"
             }
