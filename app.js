@@ -5,7 +5,7 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var bodyParser = require('body-parser');
 var cors = require('cors');
-var db = require('./db2');
+var db = require('./db');
 
 var indexRouter = require('./routes/index');
 var videoRouter = require('./routes/video');

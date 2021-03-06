@@ -12,25 +12,26 @@
         ],
 
         "commands": [
-	    {
+            {
                 "label": "start alpr",
-                "nickname": "alprstart",
-                "exec": "alprd -f"
-            },            
-	    {
+                "nickname": "startlpr",
+                "exec": "supervisorctl start alprd"
+            },
+
+            {
                 "label": "stop alpr",
-                "nickname": "uptime",
-                "exec": "uptime"
+                "nickname": "startlpr",
+                "exec": "supervisorctl stop alprd"
             },
             {
                 "label": "restart alpr",
-                "nickname": "usersnmubers",
-                "exec": "cat /etc/passwd"
+                "nickname": "restartalpr",
+                "exec": "supervisorctl restart alprd"
             },
             {
-                "label": "alpr status",
-                "nickname": "usersnmubers",
-                "exec": "cat /etc/passwd"
+                "label": "alpr status/logs",
+                "nickname": "alprlogs",
+                "exec": "cat supervisord.log"
             }
 
         ],

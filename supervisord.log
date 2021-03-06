@@ -27,3 +27,46 @@
 2021-03-06 14:20:55,125 INFO supervisord started with pid 1
 2021-03-06 14:20:56,127 INFO spawned: 'app' with pid 11
 2021-03-06 14:20:57,887 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-06 14:34:57,447 WARN received SIGTERM indicating exit request
+2021-03-06 14:34:57,450 INFO waiting for app to die
+2021-03-06 14:34:58,452 INFO stopped: app (terminated by SIGTERM)
+2021-03-06 14:35:39,755 CRIT Supervisor running as root (no user in config file)
+2021-03-06 14:35:39,761 INFO supervisord started with pid 1
+2021-03-06 14:35:40,764 INFO spawned: 'app' with pid 11
+2021-03-06 14:35:42,525 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-06 14:38:12,858 WARN received SIGTERM indicating exit request
+2021-03-06 14:38:12,863 INFO waiting for app to die
+2021-03-06 14:38:13,863 INFO stopped: app (terminated by SIGTERM)
+2021-03-06 14:38:21,157 CRIT Supervisor running as root (no user in config file)
+2021-03-06 14:38:21,159 INFO supervisord started with pid 1
+2021-03-06 14:38:22,162 INFO spawned: 'app' with pid 10
+2021-03-06 14:38:23,931 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-06 14:49:38,656 WARN received SIGTERM indicating exit request
+2021-03-06 14:49:38,659 INFO waiting for app to die
+2021-03-06 14:49:39,661 INFO stopped: app (terminated by SIGTERM)
+2021-03-06 14:49:46,814 CRIT Supervisor running as root (no user in config file)
+2021-03-06 14:49:46,820 INFO supervisord started with pid 1
+2021-03-06 14:49:47,823 INFO spawned: 'app' with pid 11
+2021-03-06 14:49:49,697 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-06 15:08:55,833 WARN received SIGTERM indicating exit request
+2021-03-06 15:08:55,837 INFO waiting for app to die
+2021-03-06 15:08:56,838 INFO stopped: app (terminated by SIGTERM)
+2021-03-06 15:15:15,782 CRIT Supervisor running as root (no user in config file)
+2021-03-06 15:15:15,785 INFO supervisord started with pid 1
+2021-03-06 15:15:16,791 INFO spawned: 'app' with pid 10
+2021-03-06 15:15:16,793 INFO spawned: 'alprd' with pid 11
+2021-03-06 15:15:16,795 INFO spawned: 'beanstalk' with pid 12
+2021-03-06 15:15:17,386 INFO exited: alprd (exit status 1; not expected)
+2021-03-06 15:15:17,889 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-06 15:15:17,890 INFO success: beanstalk entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-06 15:15:18,899 INFO spawned: 'alprd' with pid 32
+2021-03-06 15:15:19,044 INFO exited: alprd (exit status 1; not expected)
+2021-03-06 15:15:21,048 INFO spawned: 'alprd' with pid 34
+2021-03-06 15:15:21,178 INFO exited: alprd (exit status 1; not expected)
+2021-03-06 15:15:24,183 INFO spawned: 'alprd' with pid 36
+2021-03-06 15:15:24,309 INFO exited: alprd (exit status 1; not expected)
+2021-03-06 15:15:25,310 INFO gave up: alprd entered FATAL state, too many start retries too quickly
+2021-03-06 15:36:01,672 WARN received SIGTERM indicating exit request
+2021-03-06 15:36:01,672 INFO waiting for app, beanstalk to die
+2021-03-06 15:36:01,673 INFO stopped: beanstalk (terminated by SIGTERM)
+2021-03-06 15:36:03,680 INFO stopped: app (terminated by SIGTERM)

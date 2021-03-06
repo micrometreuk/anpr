@@ -1,9 +1,26 @@
 version: '3'
 services:
-  web:
-    container_name: linux_webmin 
+  openalpr:
+    container_name: alpr_nodejs
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      - MONGO_USERNAME=$MONGO_USERNAME
+      - MONGO_PASSWORD=$MONGO_PASSWORD
+      - MONGO_HOSTNAME=db
+      - MONGO_PORT=$MONGO_PORT
+      - MONGO_DB=$MONGO_DB
     build: .
     volumes:
+      - openalpr:/etc/openalpr
       - ./:/code
+    networks:
+      - app-network
     ports:
       - "9091:9091"
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+    openalpr:
