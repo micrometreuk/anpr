@@ -26,7 +26,13 @@
                 "label": "restart alpr",
                 "nickname": "usersnmubers",
                 "exec": "cat /etc/passwd"
+            },
+            {
+                "label": "alpr status",
+                "nickname": "usersnmubers",
+                "exec": "cat /etc/passwd"
             }
+
         ],
 
         "informations": [
