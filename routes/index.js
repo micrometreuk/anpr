@@ -4,7 +4,7 @@ var ejs = require('ejs');
 var path = require('path');
 var router = express.Router();
 var storage = multer.diskStorage({
-  destination: './public/uploads/',
+  destination: './public/videos/',
   filename: function(req, file, cb){
     cb(null,file.fieldname + path.extname(file.originalname));
   }

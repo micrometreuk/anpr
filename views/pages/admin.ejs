@@ -7,50 +7,20 @@
     <header>
     <% include ../partials/header %>
 </header>
-<div id="jsGrid"></div>
-<script>
-        $(function() {
-            $("#jsGrid").jsGrid({
-                width: "100%",
-                editing: true,
-                inserting: true,
-                paging: true,
-                autoload: true,
-                deleteConfirm: "Do you really want to delete client?",
-                controller: {
-		    loadData: function(filter) {
-		      return $.ajax({
-                        url: "/alpr/plates",
-			dataType: "json"
-		      });
-		    },
-                     
-		    deleteItem: function (item) {
-                            return $ .ajax ({
-                                type: "DELETE",
-                                url: "/alpr/plates/",
-                                data: item
-                            });
-                        },
-		  
-                    insertItem: function (item) {
-                            return $ .ajax ({
-                                type: "POST",
-                                url: "/alpr/api ",
-                                data: item
-                            });
-			}
-                },
-
-                 fields: [
-                        {title: "Plate", name: "plate", type: "text", width: 50},
-                        {title: "Time", name: "hour", type: "number", width: 25},
-                        {type: "control"}
-                    ]
-            });
-        });
-    </script>    
-
+<div class="uk-container uk-container-large">
+                <div class="uk-container">
+                    <div class="uk-margin">
+                        <div class="uk-flex uk-flex-center" uk-grid>
+                            <% commands.forEach(function(command, index) { %>
+    <button class="uk-button uk-button-default" onclick="sendCommandAndPopulateResultZone('<%= command.nickname %>')">
+                             <span uk-icon="icon: chevron-right"></span><%= command.label %>
+                             </button>
+                             <% }); %>
+			    </div>
+			</div>
+                    </div>
+		</div>
+        
 <footer>
     <% include ../partials/footer %>
 </footer>

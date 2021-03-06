@@ -1,0 +1,110 @@
+// Json5 format, see https://json5.org/
+{
+    "config": {
+        "listeningPort": 9091,
+        "pageTitle": "Linux Webmin",
+        "links": [
+            {
+                "label": "GitHub",
+                "url": "https://github.com/micrometreuk",
+                "newTab": true
+            }
+        ],
+
+        "commands": [
+	    {
+                "label": "host name",
+                "nickname": "host",
+                "exec": "hostname"
+            },            
+	    {
+                "label": "looged users",
+                "nickname": "who",
+                "exec": "who"
+            },            
+            {
+                "label": "logins history",
+                "nickname": "last",
+                "exec": "last"
+            },
+	    {
+                "label": "host uptime",
+                "nickname": "uptime",
+                "exec": "uptime"
+            },
+            {
+                "label": "usernames and numbers ",
+                "nickname": "usersnmubers",
+                "exec": "cat /etc/passwd"
+            },
+            {
+                "label": "Public IP",
+                "nickname": "ip1",
+                "exec": "curl -s http://checkip.dyndns.org/ | sed 's/[a-zA-Z<>/ :]//g'"
+            },
+            {
+                "label": "ping goole",
+                "nickname": "ping",
+                "exec": "ping -c 5 google.com"
+            },
+            {
+                "label": "linux version",
+                "nickname": "uname",
+                "exec": "uname -r"
+            },
+            {
+                "label": "linux distribution",
+                "nickname": "osrelease",
+                "exec": "cat /etc/os-release"
+            },
+	    {
+                "label": "CPU compatibility",
+                "nickname": "cpuarch",
+                "exec": "lscpu | grep mode"
+            },
+	    {
+                "label": "processes tree",
+                "nickname": "pstree",
+                "exec": "pstree"
+            },
+	    {
+                "label": "kernel buffer ",
+                "nickname": "dmesg",
+                "exec": "dmesg"
+            },
+	    {
+                "label": "installedlled packages",
+                "nickname": "aptlist",
+                "exec": "apt list --installed"
+            },
+            {
+                "label": "top 5 process",
+                "nickname": "psaux",
+                "exec": "ps -eo pid,comm,%cpu,%mem --sort=-%cpu | head -n 5"
+            },
+	    {
+                "label": " CPU speed",
+                "nickname": "cpuarch",
+                "exec": "grep \"cpu MHz\" /proc/cpuinfo"
+            },
+	    {
+                "label": "Top 5 Largest Files",
+                "nickname": "diskusage",
+                "exec": "du -sk /var/log/* | sort -r -n | head -10 "
+            },
+
+	    {
+                "label": "List mount points",
+                "nickname": "mounts",
+                "exec": "mount"
+            }
+        ],
+
+        "informations": [
+	    {
+                "label": "Top 5 Largest Files",
+                "exec": "du -sk /var/log/* | sort -r -n | head -10 "
+            }
+        ]
+    }
+}
