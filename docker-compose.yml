@@ -2,11 +2,26 @@ version: '3'
 services:
   openalpr:
     container_name: alpr_nodejs
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      - MONGO_USERNAME=$MONGO_USERNAME
+      - MONGO_PASSWORD=$MONGO_PASSWORD
+      - MONGO_HOSTNAME=db
+      - MONGO_PORT=$MONGO_PORT
+      - MONGO_DB=$MONGO_DB
     build: .
+    ports:
+      - "9091:9091"
     volumes:
       - openalpr:/etc/openalpr
       - ./:/code
-    ports:
-      - "9091:9091"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
 volumes:
   openalpr:        
