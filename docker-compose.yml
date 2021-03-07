@@ -18,10 +18,24 @@ services:
       - ./:/code
     networks:
       - app-network
+  db:
+    image: mongo:4.1.8-xenial
+    container_name: mongo_db
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=$MONGO_USERNAME
+      - MONGO_INITDB_ROOT_PASSWORD=$MONGO_PASSWORD
+    ports:
+      - "27017:27017"
+    volumes:
+      - dbdata:/data/db
+    networks:
+      - app-network
 
 networks:
   app-network:
     driver: bridge
-
 volumes:
-  openalpr:        
+  dbdata:
+  openalpr:

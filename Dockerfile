@@ -18,5 +18,4 @@ EXPOSE 9091 9091
 RUN mkdir -p   /var/log/supervisor
 COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf
 COPY files/alprd.conf /etc/openalpr/alprd.conf
-EXPOSE 27017
 CMD ["/usr/bin/supervisord"]
