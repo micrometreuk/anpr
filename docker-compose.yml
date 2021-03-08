@@ -2,39 +2,19 @@ version: '3'
 services:
   openalpr:
     container_name: alpr_nodejs
-    restart: unless-stopped
-    env_file: .env
-    environment:
-      - MONGO_USERNAME=$MONGO_USERNAME
-      - MONGO_PASSWORD=$MONGO_PASSWORD
-      - MONGO_HOSTNAME=db
-      - MONGO_PORT=$MONGO_PORT
-      - MONGO_DB=$MONGO_DB
+    restart: always
     build: .
     ports:
       - "9091:9091"
     volumes:
       - openalpr:/etc/openalpr
       - ./:/code
-    networks:
-      - app-network
-  db:
-    image: mongo:4.1.8-xenial
-    container_name: mongo_db
-    restart: unless-stopped
-    env_file: .env
-    environment:
-      - MONGO_INITDB_ROOT_USERNAME=$MONGO_USERNAME
-      - MONGO_INITDB_ROOT_PASSWORD=$MONGO_PASSWORD
+    external_links:
+      - mongo
+  mongo:
+    container_name: mongo
+    image: mongo
     ports:
-      - "27017:27017"
-    volumes:
-      - dbdata:/data/db
-    networks:
-      - app-network
-networks:
-  app-network:
-    driver: bridge
+      - '27017:27017'
 volumes:
-  dbdata:
   openalpr:
