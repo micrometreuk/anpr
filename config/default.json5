@@ -15,18 +15,18 @@
             {
                 "label": "start alpr",
                 "nickname": "startlpr",
-                "exec": "supervisorctl start alprd"
+                "exec": "scripts/./start-alprd.sh"
             },
 
             {
                 "label": "stop alpr",
                 "nickname": "stopalpr",
-                "exec": "scripts/./alprd.sh"
+                "exec": "scripts/./stop-alprd.sh"
             },
             {
                 "label": "restart alpr",
                 "nickname": "restartalpr",
-                "exec": "supervisorctl restart alprd"
+                "exec": "scripts/./restart-alprd.sh"
             },
 
             {
