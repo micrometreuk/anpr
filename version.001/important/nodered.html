@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Licence Plate</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-timepicker/0.5.2/css/bootstrap-timepicker.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid.min.css" />
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid-theme.min.css" />
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid.min.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            var db = {{#payload}}{{{.}}}{{/payload}};
+                $("#jsgrid").jsGrid({
+                    width: "100%",
+                    inserting: true,
+                    editing: true,
+                    sorting: true,
+                    paging: true,
+
+                    data: db,
+
+                    fields: [
+                        { title:"Registrations", name: "registration", type: "text", width: 50 },
+                       
+                        { type: "control" }
+                    ],
+               
+                    controller: {
+                        insertItem: function(item) {
+                            return $.ajax({
+                                type: "POST",
+                                url: "/insert",
+                                data: item
+                            });
+                        },
+                        updateItem: function(item) {
+                           return $.ajax({
+                                type: "PUT",
+                                url: "/update",
+                                data: item
+                            });
+                        },
+                        deleteItem: function(item) {
+                            return $.ajax({
+                                type: "DELETE",
+                                url: "/delete",
+                                data: item
+                            });
+                        }
+                    }   
+                });
+            });
+    
+  </script>
+</head>
+<body class="container">
+    <section class="row">
+        
+        <div class="col-md-6"></div>
+        <div class="col-md-6" id="jsgrid">
+        </div>
+    </section>
+</body>
+</html>
+
+

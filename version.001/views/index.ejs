@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ALPRD Server</title>
+        <link rel='stylesheet' href='/stylesheets/style.css' />
+        <script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+
+    <div class="content">
+    <div class="alprstream">
+    <ul id="events"></ul>
+    </div>
+    </div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        const $events = document.getElementById('events');
+
+        const newItem = (content) => {
+          const item = document.createElement('p');
+          item.innerText = content;
+          return item;
+        };
+
+        const socket = io();
+
+	socket.on('plate', (counter, plate) => {
+            $events.appendChild(newItem(`${plate}`));
+	});
+
+    </script>
+</body>
+</html>
+

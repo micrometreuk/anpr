@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+  nodered:
+    image: jekyll/jekyll:latest
+    container_name: micrometreuk_jekyll
+    command: jekyll serve --watch --force_polling --verbose
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/srv/jekyll
+
