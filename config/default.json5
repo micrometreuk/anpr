@@ -20,8 +20,8 @@
 
             {
                 "label": "stop alpr",
-                "nickname": "startlpr",
-                "exec": "pkill alprd"
+                "nickname": "stopalpr",
+                "exec": "./alprd.sh"
             },
             {
                 "label": "restart alpr",
