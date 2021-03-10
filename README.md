@@ -1,9 +1,8 @@
 ## Overview 
 REST API for Open/ALPR with Express.js, Mongodb and Mongo Express with Docker.
 
-![Alt text](public/images/ alpr-admin.png?raw=true "Title")
 
-![alt tag](public/images/alpr-admin.png "Desktop view of the UI")  |   ![alt tag](screenshot/UI_desktop.png "Desktop view of the UI") 
+![alt tag](public/images/alpr-admin.png)  |   ![alt tag](screenshot/UI_desktop.png "Desktop view of the UI") 
 
 
 ### Requirements
