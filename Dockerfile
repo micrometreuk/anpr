@@ -18,6 +18,4 @@ EXPOSE 9091 9091
 RUN mkdir -p   /var/log/supervisor
 COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf
 COPY files/alprd.conf /etc/openalpr/alprd.conf
-COPY wait-for.sh /usr/bin
-RUN chmod +x /usr/bin/wait-for.sh
 CMD ["/usr/bin/supervisord"]

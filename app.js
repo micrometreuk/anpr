@@ -2,6 +2,7 @@ var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
+var morgan = require('morgan');
 var logger = require('morgan');
 var bodyParser = require('body-parser');
 var cors = require('cors');
