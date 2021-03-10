@@ -21,7 +21,7 @@
             {
                 "label": "stop alpr",
                 "nickname": "stopalpr",
-                "exec": "./alprd.sh"
+                "exec": "scripts/./alprd.sh"
             },
             {
                 "label": "restart alpr",
