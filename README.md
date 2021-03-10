@@ -1,6 +1,10 @@
 ## Overview 
 REST API for Open/ALPR with Express.js, Mongodb and Mongo Express with Docker.
 
+![Alt text](public/images/ alpr-admin.png?raw=true "Title")
+
+
+
 ### Requirements
 - Docker and Docker Compose
 
