@@ -1,11 +1,12 @@
 var createError = require('http-errors');
 var express = require('express');
+var winston = require('./config/winston');
 var path = require('path');
+var fs = require("fs");
 var cookieParser = require('cookie-parser');
-var morgan = require('morgan');
-var logger = require('morgan');
 var bodyParser = require('body-parser');
 var cors = require('cors');
+
 var db = require('./db1');
 
 var indexRouter = require('./routes/index');
@@ -20,7 +21,6 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
 app.use(cors());
-app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
