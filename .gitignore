@@ -4,4 +4,3 @@ supervisord.log
 supervisord.pid
 openalpr
 .mp4
-.vagrant
