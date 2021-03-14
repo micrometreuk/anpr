@@ -5,6 +5,7 @@ REST API for Open/ALPR with Express.js, Mongodb and Mongo Express with Docker.
 - Docker and Docker Compose
 #### Install Docker CE and Docker Compose follow the post from. https://micrometreuk.github.io/2020/02/07/docker.html
 ``` bash
+
 #Start the container
 docker-compose up -d               
 ```

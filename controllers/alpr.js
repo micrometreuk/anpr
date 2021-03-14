@@ -16,5 +16,11 @@ exports.create = async function(req, res) {
     }
 };
 
+exports.list = async function(req, res) {
+  Alpr.find({}, function(err, alprs) {
+      console.log(alprs);
+   res.json(alprs);
+  });
+};
 
 
