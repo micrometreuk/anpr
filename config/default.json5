@@ -38,7 +38,7 @@
             {
                 "label": "alpr logs",
                 "nickname": "alprlogs",
-                "exec": "cat supervisord.log"
+                "exec": "tail  app.log"
             }
 
         ],
@@ -46,7 +46,7 @@
         "informations": [
 	    {
                 "label": "alpr videos/photos",
-                "exec": "ls -la public/uploads"
+                "exec": "tail app.log"
             }
         ]
     }

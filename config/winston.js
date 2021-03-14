@@ -3,7 +3,7 @@ var winston = require('winston');
 var options = {
   file: {
     level: 'debug',
-    filename: `${appRoot}/logs/app.log`,
+    filename: `${appRoot}/app.log`,
     handleExceptions: true,
     json: true,
     maxsize: 5242880, // 5MB
