@@ -38,15 +38,15 @@
             {
                 "label": "alpr logs",
                 "nickname": "alprlogs",
-                "exec": "tail  app.log"
+                "exec": "cat  app.log"
             }
 
         ],
 
         "informations": [
 	    {
-                "label": "alpr videos/photos",
-                "exec": "tail app.log"
+                "label": "services",
+                "exec": "ps -eo pid,comm,%cpu,%mem --sort=-%cpu | head -n 5"
             }
         ]
     }

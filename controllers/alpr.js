@@ -16,17 +16,5 @@ exports.create = async function(req, res) {
     }
 };
 
-exports.list = async function(req, res) {
-  Alpr.find({}, function(err, alprs) {
-      console.log(alprs);
-   res.json(alprs);
-  });
-};
-
-
-exports.delete = function(req, res) {
-  Alpr.findOneAndDelete({"_id": req.params.id})
-    .then(data => res.json(data))
-  }
 
 

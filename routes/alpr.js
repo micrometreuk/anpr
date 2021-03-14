@@ -14,8 +14,5 @@ router.get('/plates', function(req, res) {
     alpr.list(req,res);
 });
 
-router.delete('/plates/:id', function(req, res) {
-  alpr.delete(req, res);
-});
 
 module.exports = router;
