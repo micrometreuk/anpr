@@ -1,0 +1,10 @@
+--2021-03-17 06:44:31--  http://3.10.20.174:8081/db/docker-node-mongo/expCsv/alprs?key=
+Connecting to 3.10.20.174:8081... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/csv]
+Saving to: ‘alprs?key=’
+
+alprs?key=                                               [<=>                                                                                                                   ]       0  --.-KB/s               alprs?key=                                               [ <=>                                                                                                                  ]  63.06K  --.-KB/s    in 0.001s  
+
+2021-03-17 06:44:31 (46.3 MB/s) - ‘alprs?key=’ saved [64575]
+
