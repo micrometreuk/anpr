@@ -23,6 +23,7 @@ exports.list = async function(req, res) {
   .sort({plate: 1});  
 };
 
+
 exports.delete = function(req, res) {
   Alpr.findOneAndDelete({"_id": req.params.id})
     .then(data => res.json(data))
