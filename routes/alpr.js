@@ -3,7 +3,6 @@ const router = express.Router();
 const alpr = require('../controllers/alpr');
 
 router.get('/', function(req, res){
-    res.render('pages/db.ejs');
     alpr.index(req,res);
 });
 
@@ -15,5 +14,8 @@ router.get('/plates', function(req, res) {
     alpr.list(req,res);
 });
 
+router.delete('/plates/:id', function(req, res) {
+  alpr.delete(req, res);
+});
 
 module.exports = router;
