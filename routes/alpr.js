@@ -15,4 +15,7 @@ router.get('/plates', function(req, res) {
 });
 
 
+router.get('/index', function(req, res) {
+    alpr.index(req,res);
+});
 module.exports = router;

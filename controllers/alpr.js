@@ -1,4 +1,3 @@
-var path = require('path');
 var Alpr = require('../models/alpr');
 
 exports.index = function(req, res) {
@@ -24,3 +23,10 @@ exports.list = async function(req, res) {
 };
 
 
+exports.index = async function(req, res) {
+  Alpr.find({}, function(err, alprs) {
+   console.log(alprs);
+   res.json(alprs);
+  })
+  .sort({plate: 1});  
+};
