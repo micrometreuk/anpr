@@ -9,7 +9,7 @@ var winston = require('./config/winston');
 var bodyParser = require('body-parser');
 var cors = require('cors');
 
-var db = require('./db1');
+var db = require('./db');
 
 var indexRouter = require('./routes/index');
 var videoRouter = require('./routes/video');

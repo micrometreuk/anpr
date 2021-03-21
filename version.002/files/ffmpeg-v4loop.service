@@ -1,9 +1,0 @@
-[Unit]
-Description=Openalpr alprd systemd service.
-
-[Service]
-Type=simple
-ExecStart=/bin/bash /usr/bin/ffmpeg-while-v4loop.sh
-
-[Install]
-WantedBy=multi-user.target

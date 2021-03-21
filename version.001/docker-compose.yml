@@ -1,9 +1,0 @@
-version: '3'
-services:
-  web:
-    container_name: alpr_stream
-    build: .
-    volumes:
-      - ./:/code
-    ports:
-      - "9091:9091"
