@@ -13,9 +13,10 @@
             $("#jsGrid").jsGrid({
                 width: "100%",
                 editing: true,
-                inserting: true,
                 paging: true,
                 autoload: true,
+                selecting: true,
+                sorting: true,
                 deleteConfirm: "Do you really want to delete client?",
                 controller: {
 		    loadData: function(filter) {
@@ -53,7 +54,7 @@
 
                  fields: [
                         {title: "Plate", name: "plate", type: "text", width: 50},
-                        {title: "Time", name: "hour", type: "number", width: 25},
+                        {title: "_id", name: "_id", type: "number", width: 25},
                         {type: "control"}
                     ]
             });
