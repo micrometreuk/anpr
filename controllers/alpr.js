@@ -30,5 +30,12 @@ exports.delete = function(req, res) {
    res.json(item);
     });   
   console.log(item);
-    
+  }
+
+exports.put = function(req, res) {
+  var item = req.body;
+  Alpr.update({ _id: item._id }, item, {}, function(err) {
+   res.json(item);
+    });   
+  console.log(item);
   }

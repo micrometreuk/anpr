@@ -13,8 +13,18 @@ router.post('/', function(req, res) {
 router.delete('/', function(req, res) {
   alpr.delete(req, res);
 });
+
+
+
+router.put('/', function(req, res) {
+  alpr.put(req, res);
+});
+
+
 router.get('/plates', function(req, res) {
     alpr.list(req,res);
 });
+
+
 
 module.exports = router;

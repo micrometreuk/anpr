@@ -35,12 +35,21 @@
 		  
                     insertItem: function (item) {
                             return $ .ajax ({
-                                type: "POST",
-                                url: "/alpr/api ",
+                                type: "PUT",
+                                url: "/alpr",
                                 data: item
                             });
-			}
-                },
+			},
+
+                    updateItem: function(item) {
+               		    return $.ajax({
+                    	    	type: "PUT",
+                    		url: "/alpr",
+                    		data: item
+                	   });
+            		}
+                
+		},
 
                  fields: [
                         {title: "Plate", name: "plate", type: "text", width: 50},
