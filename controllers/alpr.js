@@ -20,11 +20,15 @@ exports.list = async function(req, res) {
       console.log(alprs);
    res.json(alprs);
   })
-  .sort({plate: 1});  
+  .sort({plate: -1});  
 };
 
 
 exports.delete = function(req, res) {
-  Alpr.findOneAndDelete({"_id": req.params.id})
-    .then(data => res.json(data))
+  var item = req.body;
+   Alpr.remove({ _id: item._id }, {}, function(err) {
+   res.json(item);
+    });   
+  console.log(item);
+    
   }
