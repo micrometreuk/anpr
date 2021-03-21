@@ -11,12 +11,6 @@ services:
       - openalpr:/etc/openalpr
       - ./:/code
       - dbdata:/data/db
-  mongo-express:
-    image: mongo-express
-    depends_on:
-       - openalpr
-    ports:
-       - "8081:8081"        
 volumes:
   dbdata:
   openalpr:    
