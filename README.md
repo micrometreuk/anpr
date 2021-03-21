@@ -1,5 +1,7 @@
 ## Overview 
-REST API for Open/ALPR with Express.js, Mongodb and Mongo Express with Docker.
+REST API for Open/ALPR.
+
+Mongodb and Mongo Express with Docker.
 
 ### Requirements
 - Docker and Docker Compose
