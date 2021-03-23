@@ -11,10 +11,13 @@ exports.data = function(req, res) {
 };
 exports.create = async function(req, res) {
    let newAlpr = new Alpr(req.body.results[0]);
-   let newUuid = new Alpr(req.body);
+   var newUuid = new Alpr({
+    uuid : req.body.uuid, plate : req.body.uuid
+   });
     try {
         await newAlpr.save();
         res.send(newAlpr);
+        console.log(newUuid)
     } catch (err) {
         res.status(500).send(err);
     }

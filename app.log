@@ -9813,3 +9813,768 @@
 {"level":"debug","message":"::1 - - [23/Mar/2021:12:31:21 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:9091/alpr\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:21.185Z"}
 {"level":"debug","message":"::1 - - [23/Mar/2021:12:31:21 +0000] \"GET /js/main.js HTTP/1.1\" 304 - \"http://localhost:9091/alpr\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:21.187Z"}
 {"level":"debug","message":"::1 - - [23/Mar/2021:12:31:21 +0000] \"GET /alpr/plates HTTP/1.1\" 304 - \"http://localhost:9091/alpr\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:21.368Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:50 +0000] \"GET /admin HTTP/1.1\" 304 - \"http://localhost:9091/alpr\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:50.052Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:50 +0000] \"GET /stylesheets/uikit.min.css HTTP/1.1\" 304 - \"http://localhost:9091/admin\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:50.101Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:50 +0000] \"GET /stylesheets/main.css HTTP/1.1\" 304 - \"http://localhost:9091/admin\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:50.103Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:50 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:9091/admin\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:50.108Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:50 +0000] \"GET /js/main.js HTTP/1.1\" 304 - \"http://localhost:9091/admin\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:50.112Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:50 +0000] \"GET /admin/info HTTP/1.1\" 200 225 \"http://localhost:9091/admin\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:50.194Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:50 +0000] \"GET /alpr HTTP/1.1\" 304 - \"http://localhost:9091/admin\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:50.997Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:51 +0000] \"GET /stylesheets/uikit.min.css HTTP/1.1\" 304 - \"http://localhost:9091/alpr\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:51.039Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:51 +0000] \"GET /stylesheets/main.css HTTP/1.1\" 304 - \"http://localhost:9091/alpr\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:51.041Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:51 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:9091/alpr\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:51.043Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:51 +0000] \"GET /js/main.js HTTP/1.1\" 304 - \"http://localhost:9091/alpr\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:51.054Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:51 +0000] \"GET /alpr/plates HTTP/1.1\" 304 - \"http://localhost:9091/alpr\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:51.360Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:52 +0000] \"GET /video HTTP/1.1\" 200 11952046 \"http://localhost:9091/alpr\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:52.337Z"}
+{"level":"error","message":"404 - Not Found - /img/favicon-32x32.png - GET - ::1","timestamp":"2021-03-23T12:31:52.478Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:52 +0000] \"GET /img/favicon-32x32.png HTTP/1.1\" 404 1457 \"http://localhost:9091/video\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:52.489Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:52 +0000] \"GET /video HTTP/1.1\" 206 11952046 \"http://localhost:9091/video\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:52.508Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:53 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:53.888Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:53 +0000] \"GET /stylesheets/uikit.min.css HTTP/1.1\" 304 - \"http://localhost:9091/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:53.933Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:53 +0000] \"GET /stylesheets/main.css HTTP/1.1\" 304 - \"http://localhost:9091/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:53.934Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:53 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:9091/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:53.947Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:53 +0000] \"GET /js/main.js HTTP/1.1\" 304 - \"http://localhost:9091/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:53.954Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:54 +0000] \"GET /uploads/alprVideo-.mp4 HTTP/1.1\" 304 - \"http://localhost:9091/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:54.005Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:54 +0000] \"GET /uploads/alprVideo-.mp4 HTTP/1.1\" 304 - \"http://localhost:9091/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:54.134Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:31:55 +0000] \"GET /alpr/plates HTTP/1.1\" 304 - \"http://localhost:9091/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:31:55.753Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:10 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:10.285Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:10 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:10.410Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:10 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:10.582Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:10 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:10.747Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:11 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:11.026Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:11 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:11.332Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:11 +0000] \"POST /alpr HTTP/1.1\" 200 61 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:11.646Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:11 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:11.812Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:11 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:11.986Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:12 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:12.141Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:12 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:12.314Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:12 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:12.495Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:12 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:12.659Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:13 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:13.921Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:14 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:14.580Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:15 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:15.169Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:15 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:15.752Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:16 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:16.580Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:17 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:17.350Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:17 +0000] \"GET /alpr/plates HTTP/1.1\" 200 29748 \"http://localhost:9091/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:17.888Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:17 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:17.906Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:17 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/plates\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:17.992Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:18 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:18.139Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:18 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:18.290Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:18 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:18.518Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:18 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:18.702Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:18 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:18.872Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:18 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:18.952Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:19 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:19.052Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:19 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:19.241Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:19 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:19.444Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:19 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:19.577Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:19 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:19.653Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:19 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:19.824Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:20 +0000] \"GET /alpr/plates HTTP/1.1\" 200 30419 \"http://localhost:9091/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:20.332Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:20 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:20.346Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:20 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:20.361Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:20 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:20.381Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:20 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/plates\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:20.415Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:20 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:20.566Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:20 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:20.821Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:20 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:20.993Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:21 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:21.079Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:21 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:21.170Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:21 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:21.335Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:21 +0000] \"GET /alpr/plates HTTP/1.1\" 200 30885 \"http://localhost:9091/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:21.685Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:21 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/plates\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:21.764Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:21 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:21.868Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:22 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:22.200Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:22 +0000] \"GET /alpr/plates HTTP/1.1\" 200 30991 \"http://localhost:9091/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:22.667Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:22 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/plates\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:22.761Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:22 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:22.869Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:23 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:23.483Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:23 +0000] \"GET /alpr/plates HTTP/1.1\" 200 31044 \"http://localhost:9091/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:23.640Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:23 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/plates\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:23.729Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:24 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:24.325Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:25 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:25.747Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:26 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:26.387Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:26 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:26.920Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:27 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:27.483Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:28 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:28.123Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:28 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:28.693Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:29 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:29.212Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:29 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:29.379Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:29 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:29.933Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:30 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:30.105Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:30 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:30.318Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:30 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:30.527Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:30 +0000] \"GET /alpr/plates HTTP/1.1\" 200 31776 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:30.924Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:31 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:31.889Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:32 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:32.497Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:33 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:33.106Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:33 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:33.934Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:34 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:34.544Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:35 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:35.097Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:35 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:35.698Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:36 +0000] \"GET /alpr/agg HTTP/1.1\" 200 2451 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:36.280Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:36 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:36.293Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:36 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:36.917Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:37 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:37.456Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:37 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:37.983Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:38 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:38.094Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:38 +0000] \"GET /alpr/agg HTTP/1.1\" 200 2468 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:38.177Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:38 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:38.229Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:38 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:38.276Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:38 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:38.649Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:38 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:38.707Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:39 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:39.086Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:39 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:39.169Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:39 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:39.291Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:39 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:39.357Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:39 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:39.386Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:39 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:39.601Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:39 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:39.807Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:39 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:39.821Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:40 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:40.035Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:40 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:40.256Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:40 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:40.295Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:40 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:40.398Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:40 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:40.465Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:41 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:41.613Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:41 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:41.679Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:42 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:42.422Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:42 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:42.611Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:42 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:42.796Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:43 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:43.020Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:43 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:43.245Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:43 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:43.434Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:43 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:43.632Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:43 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:43.817Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:44 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:44.109Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:44 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:44.286Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:44 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:44.364Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:44 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:44.560Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:44 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:44.783Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:44 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:44.851Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:46 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:46.400Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:46 +0000] \"GET /alpr/agg HTTP/1.1\" 200 2484 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:46.517Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:46 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:32:46.604Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:49 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:49.715Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:50 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:50.250Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:51 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:51.319Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:51 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:51.850Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:52 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:52.400Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:52 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:52.609Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:53 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:53.026Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:53 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:53.072Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:53 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:53.241Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:53 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:53.671Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:56 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:56.147Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:56 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:56.640Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:56 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:56.874Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:57 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:57.019Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:57 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:57.290Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:57 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:57.430Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:58 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:58.150Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:58 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:58.698Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:59 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:59.232Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:32:59 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:32:59.807Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:00 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:00.400Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:01 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:01.489Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:05 +0000] \"GET /video?openalprfiletype=file.mjpg HTTP/1.1\" 206 11952046 \"-\" \"Lavf/58.20.100\"\n","timestamp":"2021-03-23T12:33:05.145Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:06 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:06.785Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:06 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:06.955Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:07 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:07.104Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:07 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:07.386Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:07 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:07.687Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:07 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:07.863Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:08.020Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:08.298Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:08.463Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:09 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:09.151Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:09 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:09.480Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:09 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:09.695Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:09 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:09.881Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:10 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:10.721Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:10 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:10.896Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:11 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:11.221Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:11 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:11.402Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:11 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:11.900Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:12 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:12.133Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:12 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:12.334Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:12 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:12.510Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:12 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:12.687Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:12 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:12.987Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:18 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:18.055Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:18 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:18.233Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:18 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:18.417Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:18 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:18.601Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:18 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:18.914Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:18 +0000] \"GET /video?openalprfiletype=file.mjpg HTTP/1.1\" 206 11952046 \"-\" \"Lavf/58.20.100\"\n","timestamp":"2021-03-23T12:33:18.950Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:24 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:24.739Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:25 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:25.272Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:25 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:25.823Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:26 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:26.341Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:26 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:26.835Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:27 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:27.438Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:28 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:28.378Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:28 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:28.948Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:29 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:29.504Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:30 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:30.010Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:30 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:30.534Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:31 +0000] \"GET /alpr/agg HTTP/1.1\" 200 2588 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:31.020Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:31 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:31.069Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:31 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:31.095Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:31 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:31.601Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:31 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:31.813Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:31 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:31.871Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:32 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:32.560Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:32 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:32.814Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:32 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:32.866Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:33 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:33.081Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:33 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:33.573Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:33 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:33.738Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:33 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:33.781Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:34 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:34.104Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:34 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:34.631Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:35 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:35.130Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:36 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:36.055Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:36 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:36.550Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:37 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:37.030Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:37 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:37.502Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:37 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:37.990Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:38 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:38.472Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:38 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:38.917Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:39 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:39.358Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:39 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:39.808Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:40 +0000] \"POST /alpr HTTP/1.1\" 200 61 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:40.266Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:40 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:40.713Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:41 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:41.198Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:41 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:41.663Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:42 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:42.130Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:42 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:42.600Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:43 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:43.142Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:43 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:43.646Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:44 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:44.130Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:44 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:44.640Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:45 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:45.122Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:45 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:45.590Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:46 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:46.041Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:46 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:46.506Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:46 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:46.970Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:47 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:47.430Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:47 +0000] \"POST /alpr HTTP/1.1\" 200 61 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:47.880Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:48 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:48.344Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:48 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:48.793Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:49 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:49.245Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:49 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:49.675Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:50 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:50.092Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:50 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:50.546Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:53 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:53.802Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:54 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:54.803Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:55 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:55.336Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:55 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:33:55.880Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:57 +0000] \"GET /alpr/agg HTTP/1.1\" 200 2711 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:57.022Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:57 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:57.075Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:58 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:58.428Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:58 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:58.498Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:59 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:59.340Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:59 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:59.386Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:33:59 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:33:59.979Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:00 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:00.045Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:00 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:00.641Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:00 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:00.829Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:00 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:00.878Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:01 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:01.472Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:01 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:01.516Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:01 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:01.673Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:02 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:02.182Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:02 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:02.435Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:02 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:02.490Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:02 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:02.659Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:03 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:03.173Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:03 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:03.258Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:03 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:03.300Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:03 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:03.705Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:04 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:04.092Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:04 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:04.130Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:04 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:04.962Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:05 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:05.020Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:07 +0000] \"GET /alpr/plates HTTP/1.1\" 200 39664 \"http://localhost:9091/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:07.909Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:07 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/plates\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:07.977Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:08.812Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:09 +0000] \"GET /alpr/plates HTTP/1.1\" 200 39717 \"http://localhost:9091/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:09.115Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:09 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/plates\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:09.186Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:09 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:09.335Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:09 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:09.842Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:10 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:10.355Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:10 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:10.867Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:11 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:11.405Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:15 +0000] \"GET /alpr/agg HTTP/1.1\" 200 2745 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:15.030Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:15 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:15.076Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:16 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:16.046Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:16 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:16.122Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:17 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:17.097Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:17 +0000] \"GET /favicon.ico HTTP/1.1\" 200 15086 \"http://localhost:9091/alpr/agg\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:17.143Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:24 +0000] \"GET /alpr/data HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:24.501Z"}
+{"level":"error","message":"404 - Not Found - /alpr/stylesheets/uikit.min.css - GET - ::1","timestamp":"2021-03-23T12:34:24.552Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:24 +0000] \"GET /alpr/stylesheets/uikit.min.css HTTP/1.1\" 404 1454 \"http://localhost:9091/alpr/data\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:24.556Z"}
+{"level":"error","message":"404 - Not Found - /alpr/stylesheets/main.css - GET - ::1","timestamp":"2021-03-23T12:34:24.558Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:24 +0000] \"GET /alpr/stylesheets/main.css HTTP/1.1\" 404 1454 \"http://localhost:9091/alpr/data\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:24.565Z"}
+{"level":"error","message":"404 - Not Found - /alpr/stylesheets/style.css - GET - ::1","timestamp":"2021-03-23T12:34:24.576Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:24 +0000] \"GET /alpr/stylesheets/style.css HTTP/1.1\" 404 1454 \"http://localhost:9091/alpr/data\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:24.578Z"}
+{"level":"error","message":"404 - Not Found - /alpr/js/main.js - GET - ::1","timestamp":"2021-03-23T12:34:24.580Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:24 +0000] \"GET /alpr/js/main.js HTTP/1.1\" 404 1454 \"http://localhost:9091/alpr/data\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:24.585Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:26 +0000] \"GET /alpr/agg HTTP/1.1\" 304 - \"http://localhost:9091/alpr/data\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.69 Safari/537.36\"\n","timestamp":"2021-03-23T12:34:26.453Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:35 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:35.838Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:36 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:36.296Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:36 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:36.796Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:37 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:37.290Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:37 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:37.791Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:34:48 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:34:48.540Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:06 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:06.068Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:06 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:06.478Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:06 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:06.886Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:07 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:07.305Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:07 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:07.749Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:08.207Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:09 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:09.583Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:09 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:09.996Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:10 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:10.417Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:10 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:10.837Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:11 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:11.248Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:11 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:11.676Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:12 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:12.145Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:12 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:12.620Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:13 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:13.601Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:14 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:14.090Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:12:35:14 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T12:35:14.597Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:37 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:37.265Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:37 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:37.717Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:38 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:38.233Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:38 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:38.726Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:39 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:39.228Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:39 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:39.771Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:40 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:40.273Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:40 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:40.764Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:41 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:41.280Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:41 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:41.806Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:42 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:42.345Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:42 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:42.879Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:43 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:43.390Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:43 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:43.928Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:44 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:44.413Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:44 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:44.876Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:45 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:45.315Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:45 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:45.794Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:46 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:46.673Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:47 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:47.167Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:48 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:48.482Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:48 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:48.975Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:49 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:49.470Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:49 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:49.948Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:50 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:50.415Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:50 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:50.871Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:51 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:51.318Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:51 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:51.759Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:52 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:52.232Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:52 +0000] \"POST /alpr HTTP/1.1\" 200 95 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:52.683Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:53 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:53.142Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:53 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:53.599Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:54 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:54.067Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:54 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:54.531Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:55 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:55.006Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:55 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:55.483Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:55 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:55.955Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:56 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:56.896Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:57 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:57.374Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:57 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:57.846Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:58 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:58.293Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:58 +0000] \"POST /alpr HTTP/1.1\" 200 92 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:58.773Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:37:59 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:37:59.625Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:00 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:00.110Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:00 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:00.560Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:00 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:00.999Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:01 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:01.435Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:01 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:01.878Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:02 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:02.319Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:02 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:02.749Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:03 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:03.190Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:07 +0000] \"POST /alpr HTTP/1.1\" 200 92 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:07.436Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:07 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:07.971Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:08 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:08.498Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:12 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:12.971Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:13 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:13.848Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:14 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:14.324Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:14 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:14.822Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:15 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:15.278Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:15 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:15.760Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:16 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:16.230Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:21 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:21.598Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:21 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:21.999Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:22 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:22.473Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:22 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:22.962Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:23 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:23.465Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:24 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:24.912Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:49 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:49.158Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:49 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:49.634Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:50 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:50.141Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:38:50 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:38:50.588Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:18 +0000] \"POST /alpr HTTP/1.1\" 200 92 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:18.263Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:19 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:19.027Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:19 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:19.419Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:19 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:19.821Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:20 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:20.220Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:21 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:21.065Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:22 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:22.835Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:25 +0000] \"POST /alpr HTTP/1.1\" 200 92 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:25.372Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:25 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:25.391Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:25 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:25.432Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:25 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:25.453Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:25 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:25.471Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:25 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:25.557Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:26 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:26.564Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:27 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:27.092Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:39:27 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:39:27.607Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:06 +0000] \"POST /alpr HTTP/1.1\" 200 92 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:06.576Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:07 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:07.051Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:07 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:07.632Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:08 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:08.161Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:08 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:08.714Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:09 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:09.268Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:14 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:14.699Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:15 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:15.215Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:15 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:15.748Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:16 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:16.269Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:21 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:21.657Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:22 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:22.151Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:22 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:22.675Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:23 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:23.140Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:23 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:23.598Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:24 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:24.103Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:24 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:24.572Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:25 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:25.046Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:57 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:57.219Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:57 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:57.675Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:58 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:58.174Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:58 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:58.689Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:40:59 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:40:59.200Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:00 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:00.240Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:00 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:00.757Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:01 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:01.262Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:01 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:01.794Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:02 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:02.286Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:02 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:02.776Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:03 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:03.274Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:03 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:03.763Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:04 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:04.285Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:05 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:05.116Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:05 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:05.587Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:06 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:06.064Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:06 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:06.552Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:07 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:07.034Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:07 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:07.506Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:08 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:08.372Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:08 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:08.838Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:09 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:09.330Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:09 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:09.822Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:10 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:10.299Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:10 +0000] \"POST /alpr HTTP/1.1\" 200 92 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:10.744Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:11 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:11.193Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:11 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:11.640Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:12 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:12.070Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:12 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:12.548Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:12 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:12.983Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:13 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:13.439Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:13 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:13.906Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:14 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:14.379Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:14 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:14.833Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:15 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:15.343Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:15 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:15.811Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:16 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:16.283Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:16 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:16.768Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:17 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:17.266Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:17 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:17.708Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:18 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:18.176Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:19 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:19.436Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:19 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:19.874Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:20 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:20.329Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:20 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:20.791Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:21 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:21.678Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:22 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:22.135Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:22 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:22.558Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:22 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:22.978Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:26 +0000] \"POST /alpr HTTP/1.1\" 200 92 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:26.327Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:27 +0000] \"POST /alpr HTTP/1.1\" 200 92 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:27.912Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:28 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:28.439Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:33 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:33.360Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:34 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:34.314Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:34 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:34.802Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:35 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:35.279Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:35 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:35.760Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:36 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:36.253Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:41 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:41.392Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:41 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:41.880Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:42 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:42.361Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:42 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:42.852Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:43 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:43.328Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:43 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:43.827Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:41:44 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:41:44.341Z"}
+{"date":"Tue Mar 23 2021 14:41:51 GMT+0000 (Greenwich Mean Time)","process":{"pid":9710,"uid":1000,"gid":1000,"cwd":"/home/debo/repos/anpr","execPath":"/home/debo/.nvm/versions/node/v12.18.4/bin/node","version":"v12.18.4","argv":["/home/debo/.nvm/versions/node/v12.18.4/bin/node","/home/debo/repos/anpr/bin/www"],"memoryUsage":{"rss":68079616,"heapTotal":31559680,"heapUsed":21543456,"external":21311451,"arrayBuffers":19871783}},"os":{"loadavg":[0.9921875,0.8212890625,0.447265625],"uptime":11571},"trace":[{"column":16,"file":"internal/modules/cjs/loader.js","function":"wrapSafe","line":1053,"method":null,"native":false},{"column":27,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1101,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":985,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":878,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":1025,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":72,"method":null,"native":false},{"column":14,"file":"/home/debo/repos/anpr/routes/alpr.js","function":null,"line":3,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1137,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":985,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":878,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":1025,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":72,"method":null,"native":false},{"column":18,"file":"/home/debo/repos/anpr/app.js","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1137,"method":"_compile","native":false}],"stack":["/home/debo/repos/anpr/controllers/alpr.js:13","   let newAlpr = new Alpr(req.body.results[0])date;","                                              ^^^^","","SyntaxError: Unexpected identifier","    at wrapSafe (internal/modules/cjs/loader.js:1053:16)","    at Module._compile (internal/modules/cjs/loader.js:1101:27)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)","    at Module.load (internal/modules/cjs/loader.js:985:32)","    at Function.Module._load (internal/modules/cjs/loader.js:878:14)","    at Module.require (internal/modules/cjs/loader.js:1025:19)","    at require (internal/modules/cjs/helpers.js:72:18)","    at Object.<anonymous> (/home/debo/repos/anpr/routes/alpr.js:3:14)","    at Module._compile (internal/modules/cjs/loader.js:1137:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)","    at Module.load (internal/modules/cjs/loader.js:985:32)","    at Function.Module._load (internal/modules/cjs/loader.js:878:14)","    at Module.require (internal/modules/cjs/loader.js:1025:19)","    at require (internal/modules/cjs/helpers.js:72:18)","    at Object.<anonymous> (/home/debo/repos/anpr/app.js:16:18)","    at Module._compile (internal/modules/cjs/loader.js:1137:30)"],"level":"error","message":"uncaughtException: Unexpected identifier","timestamp":"2021-03-23T14:41:51.440Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:08 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:08.778Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:09 +0000] \"POST /alpr HTTP/1.1\" 200 94 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:09.224Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:09 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:09.736Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:10 +0000] \"POST /alpr HTTP/1.1\" 200 93 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:10.217Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:21 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:21.407Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:38 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:38.747Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:39 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:39.136Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:39 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:39.937Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:40 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:40.323Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:40 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:40.805Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:41 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:41.194Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:42 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:42.250Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:43 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:43.082Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:43 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:43.890Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:44 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:44.329Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:44 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:44.788Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:45 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:45.255Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:46 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:46.267Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:46 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:46.813Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:42:47 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:42:47.322Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:25 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:25.783Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:26 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:26.279Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:26 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:26.823Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:27 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:27.351Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:27 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:27.881Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:28 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:28.391Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:28 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:28.935Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:29 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:29.511Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:34 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:34.853Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:35 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:35.353Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:35 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:35.861Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:36 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:36.381Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:41 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:41.848Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:42 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:42.345Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:42 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:42.820Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:43 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:43.763Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:44 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:44.294Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:44 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:44.799Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:49 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:49.773Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:50 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:50.274Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:50 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:50.765Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:51 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:51.253Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:51 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:51.775Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:52 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:52.285Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:43:52 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:43:52.773Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:44:00 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:44:00.401Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:44:01 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:44:01.230Z"}
+{"date":"Tue Mar 23 2021 14:51:06 GMT+0000 (Greenwich Mean Time)","process":{"pid":10191,"uid":1000,"gid":1000,"cwd":"/home/debo/repos/anpr","execPath":"/home/debo/.nvm/versions/node/v12.18.4/bin/node","version":"v12.18.4","argv":["/home/debo/.nvm/versions/node/v12.18.4/bin/node","/home/debo/repos/anpr/bin/www"],"memoryUsage":{"rss":68345856,"heapTotal":31559680,"heapUsed":21320208,"external":21292299,"arrayBuffers":19852631}},"os":{"loadavg":[0.14892578125,0.47314453125,0.4970703125],"uptime":12126},"trace":[{"column":16,"file":"internal/modules/cjs/loader.js","function":"wrapSafe","line":1053,"method":null,"native":false},{"column":27,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1101,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":985,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":878,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":1025,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":72,"method":null,"native":false},{"column":14,"file":"/home/debo/repos/anpr/routes/alpr.js","function":null,"line":3,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1137,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":985,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":878,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":1025,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":72,"method":null,"native":false},{"column":18,"file":"/home/debo/repos/anpr/app.js","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1137,"method":"_compile","native":false}],"stack":["/home/debo/repos/anpr/controllers/alpr.js:15","    plate : req.body.results[0].plate;","                                     ^","","SyntaxError: Unexpected token ';'","    at wrapSafe (internal/modules/cjs/loader.js:1053:16)","    at Module._compile (internal/modules/cjs/loader.js:1101:27)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)","    at Module.load (internal/modules/cjs/loader.js:985:32)","    at Function.Module._load (internal/modules/cjs/loader.js:878:14)","    at Module.require (internal/modules/cjs/loader.js:1025:19)","    at require (internal/modules/cjs/helpers.js:72:18)","    at Object.<anonymous> (/home/debo/repos/anpr/routes/alpr.js:3:14)","    at Module._compile (internal/modules/cjs/loader.js:1137:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)","    at Module.load (internal/modules/cjs/loader.js:985:32)","    at Function.Module._load (internal/modules/cjs/loader.js:878:14)","    at Module.require (internal/modules/cjs/loader.js:1025:19)","    at require (internal/modules/cjs/helpers.js:72:18)","    at Object.<anonymous> (/home/debo/repos/anpr/app.js:16:18)","    at Module._compile (internal/modules/cjs/loader.js:1137:30)"],"level":"error","message":"uncaughtException: Unexpected token ';'","timestamp":"2021-03-23T14:51:06.531Z"}
+{"date":"Tue Mar 23 2021 14:51:24 GMT+0000 (Greenwich Mean Time)","process":{"pid":10213,"uid":1000,"gid":1000,"cwd":"/home/debo/repos/anpr","execPath":"/home/debo/.nvm/versions/node/v12.18.4/bin/node","version":"v12.18.4","argv":["/home/debo/.nvm/versions/node/v12.18.4/bin/node","/home/debo/repos/anpr/bin/www"],"memoryUsage":{"rss":68612096,"heapTotal":31559680,"heapUsed":21349200,"external":21284107,"arrayBuffers":19844439}},"os":{"loadavg":[0.1865234375,0.45849609375,0.4912109375],"uptime":12145},"trace":[{"column":16,"file":"internal/modules/cjs/loader.js","function":"wrapSafe","line":1053,"method":null,"native":false},{"column":27,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1101,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":985,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":878,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":1025,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":72,"method":null,"native":false},{"column":14,"file":"/home/debo/repos/anpr/routes/alpr.js","function":null,"line":3,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1137,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":985,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":878,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":1025,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":72,"method":null,"native":false},{"column":18,"file":"/home/debo/repos/anpr/app.js","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1137,"method":"_compile","native":false}],"stack":["/home/debo/repos/anpr/controllers/alpr.js:16","    uuid : req.body.results[0].plate","    ^^^^","","SyntaxError: Unexpected identifier","    at wrapSafe (internal/modules/cjs/loader.js:1053:16)","    at Module._compile (internal/modules/cjs/loader.js:1101:27)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)","    at Module.load (internal/modules/cjs/loader.js:985:32)","    at Function.Module._load (internal/modules/cjs/loader.js:878:14)","    at Module.require (internal/modules/cjs/loader.js:1025:19)","    at require (internal/modules/cjs/helpers.js:72:18)","    at Object.<anonymous> (/home/debo/repos/anpr/routes/alpr.js:3:14)","    at Module._compile (internal/modules/cjs/loader.js:1137:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)","    at Module.load (internal/modules/cjs/loader.js:985:32)","    at Function.Module._load (internal/modules/cjs/loader.js:878:14)","    at Module.require (internal/modules/cjs/loader.js:1025:19)","    at require (internal/modules/cjs/helpers.js:72:18)","    at Object.<anonymous> (/home/debo/repos/anpr/app.js:16:18)","    at Module._compile (internal/modules/cjs/loader.js:1137:30)"],"level":"error","message":"uncaughtException: Unexpected identifier","timestamp":"2021-03-23T14:51:24.821Z"}
+{"date":"Tue Mar 23 2021 14:52:17 GMT+0000 (Greenwich Mean Time)","process":{"pid":10334,"uid":1000,"gid":1000,"cwd":"/home/debo/repos/anpr","execPath":"/home/debo/.nvm/versions/node/v12.18.4/bin/node","version":"v12.18.4","argv":["/home/debo/.nvm/versions/node/v12.18.4/bin/node","/home/debo/repos/anpr/bin/www"],"memoryUsage":{"rss":71712768,"heapTotal":31559680,"heapUsed":21336272,"external":21264374,"arrayBuffers":19824706}},"os":{"loadavg":[0.0791015625,0.38525390625,0.4619140625],"uptime":12198},"trace":[{"column":16,"file":"internal/modules/cjs/loader.js","function":"wrapSafe","line":1053,"method":null,"native":false},{"column":27,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1101,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":985,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":878,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":1025,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":72,"method":null,"native":false},{"column":14,"file":"/home/debo/repos/anpr/routes/alpr.js","function":null,"line":3,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1137,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":985,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":878,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":1025,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":72,"method":null,"native":false},{"column":18,"file":"/home/debo/repos/anpr/app.js","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1137,"method":"_compile","native":false}],"stack":["/home/debo/repos/anpr/controllers/alpr.js:16","    uuid : req.body.results[0].plate","    ^^^^","","SyntaxError: Unexpected identifier","    at wrapSafe (internal/modules/cjs/loader.js:1053:16)","    at Module._compile (internal/modules/cjs/loader.js:1101:27)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)","    at Module.load (internal/modules/cjs/loader.js:985:32)","    at Function.Module._load (internal/modules/cjs/loader.js:878:14)","    at Module.require (internal/modules/cjs/loader.js:1025:19)","    at require (internal/modules/cjs/helpers.js:72:18)","    at Object.<anonymous> (/home/debo/repos/anpr/routes/alpr.js:3:14)","    at Module._compile (internal/modules/cjs/loader.js:1137:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)","    at Module.load (internal/modules/cjs/loader.js:985:32)","    at Function.Module._load (internal/modules/cjs/loader.js:878:14)","    at Module.require (internal/modules/cjs/loader.js:1025:19)","    at require (internal/modules/cjs/helpers.js:72:18)","    at Object.<anonymous> (/home/debo/repos/anpr/app.js:16:18)","    at Module._compile (internal/modules/cjs/loader.js:1137:30)"],"level":"error","message":"uncaughtException: Unexpected identifier","timestamp":"2021-03-23T14:52:17.910Z"}
+{"date":"Tue Mar 23 2021 14:52:21 GMT+0000 (Greenwich Mean Time)","process":{"pid":10349,"uid":1000,"gid":1000,"cwd":"/home/debo/repos/anpr","execPath":"/home/debo/.nvm/versions/node/v12.18.4/bin/node","version":"v12.18.4","argv":["/home/debo/.nvm/versions/node/v12.18.4/bin/node","/home/debo/repos/anpr/bin/www"],"memoryUsage":{"rss":71602176,"heapTotal":31559680,"heapUsed":21566576,"external":21311451,"arrayBuffers":19871783}},"os":{"loadavg":[0.07275390625,0.37841796875,0.458984375],"uptime":12201},"trace":[{"column":16,"file":"internal/modules/cjs/loader.js","function":"wrapSafe","line":1053,"method":null,"native":false},{"column":27,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1101,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":985,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":878,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":1025,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":72,"method":null,"native":false},{"column":14,"file":"/home/debo/repos/anpr/routes/alpr.js","function":null,"line":3,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1137,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":985,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":878,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":1025,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":72,"method":null,"native":false},{"column":18,"file":"/home/debo/repos/anpr/app.js","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1137,"method":"_compile","native":false}],"stack":["/home/debo/repos/anpr/controllers/alpr.js:16","    uuid : req.body.results[0].plate","    ^^^^","","SyntaxError: Unexpected identifier","    at wrapSafe (internal/modules/cjs/loader.js:1053:16)","    at Module._compile (internal/modules/cjs/loader.js:1101:27)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)","    at Module.load (internal/modules/cjs/loader.js:985:32)","    at Function.Module._load (internal/modules/cjs/loader.js:878:14)","    at Module.require (internal/modules/cjs/loader.js:1025:19)","    at require (internal/modules/cjs/helpers.js:72:18)","    at Object.<anonymous> (/home/debo/repos/anpr/routes/alpr.js:3:14)","    at Module._compile (internal/modules/cjs/loader.js:1137:30)","    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)","    at Module.load (internal/modules/cjs/loader.js:985:32)","    at Function.Module._load (internal/modules/cjs/loader.js:878:14)","    at Module.require (internal/modules/cjs/loader.js:1025:19)","    at require (internal/modules/cjs/helpers.js:72:18)","    at Object.<anonymous> (/home/debo/repos/anpr/app.js:16:18)","    at Module._compile (internal/modules/cjs/loader.js:1137:30)"],"level":"error","message":"uncaughtException: Unexpected identifier","timestamp":"2021-03-23T14:52:21.260Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.204Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.224Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.241Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.261Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.281Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.303Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.323Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.341Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.361Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.382Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.400Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.421Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.437Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.458Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.477Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.497Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.515Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.534Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.551Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.570Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.588Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.607Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.627Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.645Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.664Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.683Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.703Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.722Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:08 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:08.740Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:12 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:12.089Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:12 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:12.632Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:13 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:13.188Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:13 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:13.710Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:14 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:14.250Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:14 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:14.815Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:15 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:15.341Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:15 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:15.844Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:16 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:16.357Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:16 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:16.890Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:17 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:17.390Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:17 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:17.894Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:18 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:18.419Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:18 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:18.916Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:19 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:19.841Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:20 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:20.309Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:20 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:20.791Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:21 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:21.306Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:21 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:21.824Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:22 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:22.325Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:23 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:23.228Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:23 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:23.741Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:24 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:24.212Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:24 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:24.698Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:25 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:25.197Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:25 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:25.679Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:26 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:26.160Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:26 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:26.614Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:27 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:27.077Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:27 +0000] \"POST /alpr HTTP/1.1\" 200 61 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:27.523Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:28 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:28.004Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:28 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:28.454Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:28 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:28.920Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:29 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:29.398Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:29 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:29.889Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:30 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:30.369Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:30 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:30.863Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:31 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:31.770Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:32 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:32.244Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:32 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:32.707Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:33 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:33.171Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:33 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:33.639Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:34 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:34.516Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:34 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:34.980Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:35 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:35.425Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:35 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:35.884Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:36 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:36.319Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:36 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:36.768Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:37 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:37.204Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:37 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:37.647Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:38 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:38.084Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:42 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:42.476Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:42 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:42.988Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:48 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:48.006Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:48 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:48.920Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:49 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:49.435Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:49 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:49.943Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:50 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:50.407Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:50 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:50.913Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:56 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:56.106Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:56 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:56.601Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:57 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:57.090Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:57 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:57.582Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:58 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:58.090Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:58 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:58.620Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:54:59 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:54:59.668Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:23 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:23.604Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:24 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:24.118Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:24 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:24.633Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:25 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:25.105Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:35 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:35.820Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:48 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:48.537Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:53 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:53.249Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:53 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:53.645Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:54 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:54.041Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:54 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:54.451Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:54 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:54.858Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:55 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:55.315Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:56 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:56.638Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:57 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:57.042Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:57 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:57.449Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:57 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:57.880Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:58 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:58.286Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:58 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:58.729Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:59 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:59.152Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:55:59 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:55:59.646Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:00 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:00.148Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:00 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:00.696Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:01 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:01.231Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:01 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:01.718Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:39 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:39.852Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:40 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:40.319Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:40 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:40.844Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:41 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:41.384Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:41 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:41.923Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:42 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:42.466Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:43 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:43.014Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:43 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:43.570Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:48 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:48.904Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:49 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:49.404Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:49 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:49.938Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:50 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:50.475Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:55 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:55.985Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:56 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:56.472Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:56 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:56.952Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:57 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:57.421Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:57 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:57.956Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:58 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:58.452Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:56:58 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:56:58.925Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:05 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:05.812Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:05 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:05.825Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:05 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:05.842Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:05 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:05.863Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:06 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:06.022Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:06 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:06.545Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:07 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:07.054Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:30 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:30.030Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:30 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:30.639Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:31 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:31.337Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:31 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:31.871Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:36 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:36.451Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:37 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:37.485Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:38 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:38.045Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:38 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:38.581Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:39 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:39.233Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:39 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:39.857Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:40 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:40.471Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:57:41 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:57:41.084Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:16 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:16.275Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:16 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:16.740Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:18 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:18.021Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:18 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:18.496Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:18 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:18.989Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:19 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:19.490Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:19 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:19.987Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:30 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:30.712Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:31 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:31.137Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:31 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:31.603Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:32 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:32.094Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:32 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:32.581Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:33 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:33.055Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:33 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:33.544Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:34 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:34.063Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:34 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:34.566Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:37 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:37.935Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:39 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:39.726Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:40 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:40.590Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:41 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:41.032Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:41 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:41.501Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:42 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:42.000Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:42 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:42.523Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:43 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:43.072Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:43 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:43.637Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:48 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:48.522Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:49 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:49.019Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:49 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:49.504Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:50 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:50.052Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:50 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:50.553Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:51 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:51.060Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:58:59 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:58:59.967Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:59:00 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:59:00.428Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:59:00 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:59:00.892Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:59:01 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:59:01.322Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:59:01 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:59:01.815Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:59:02 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:59:02.324Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:59:49 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T14:59:49.647Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:59:50 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:59:50.118Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:59:50 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:59:50.655Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:59:51 +0000] \"POST /alpr HTTP/1.1\" 200 59 \"-\" \"-\"\n","timestamp":"2021-03-23T14:59:51.136Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:14:59:51 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T14:59:51.665Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:15:00:25 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T15:00:25.281Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:15:00:25 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T15:00:25.816Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:15:00:26 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T15:00:26.437Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:15:00:27 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T15:00:27.002Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:15:00:27 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T15:00:27.562Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:15:00:28 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T15:00:28.116Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:15:00:28 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T15:00:28.620Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:15:00:29 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T15:00:29.130Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:15:00:29 +0000] \"POST /alpr HTTP/1.1\" 200 60 \"-\" \"-\"\n","timestamp":"2021-03-23T15:00:29.672Z"}
+{"level":"debug","message":"::1 - - [23/Mar/2021:15:00:43 +0000] \"POST /alpr HTTP/1.1\" 200 58 \"-\" \"-\"\n","timestamp":"2021-03-23T15:00:43.704Z"}
