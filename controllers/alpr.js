@@ -10,10 +10,10 @@ exports.data = function(req, res) {
    // res.sendFile(path.resolve('views/alprdb.html'));
 };
 exports.create = async function(req, res) {
-   let newAlpr = new Alpr(req.body);
+   let newAlpr = new Alpr(req.body.results[0]);
+   let newUuid = new Alpr(req.body);
     try {
         await newAlpr.save();
-        console.log(newAlpr)
         res.send(newAlpr);
     } catch (err) {
         res.status(500).send(err);
@@ -47,10 +47,10 @@ exports.put = function(req, res) {
 
 
 exports.agg = async function(req, res) {
-var item = await Alpr.aggregate ([
-{ $group: { _id: "$plate"} },
-{$sort:{_id : 1} } 
-])
+var item = await Alpr.find(
+    {},
+    {plate: 1 }
+).sort({plate: 1 })
    res.json(item);
   console.log(item);
 };
