@@ -39,3 +39,13 @@ exports.put = function(req, res) {
     });   
   console.log(item);
   }
+
+
+exports.agg = async function(req, res) {
+  Alpr.find({}, function(err, alprs) {
+      console.log(alprs);
+   res.json(alprs);
+  })
+  .sort({plate: 1});  
+};
+
