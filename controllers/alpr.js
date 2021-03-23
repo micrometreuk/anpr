@@ -42,10 +42,10 @@ exports.put = function(req, res) {
 
 
 exports.agg = async function(req, res) {
-  Alpr.find({}, function(err, alprs) {
-      console.log(alprs);
-   res.json(alprs);
-  })
-  .sort({plate: 1});  
+var docs = await Alpr.aggregate ([
+{ $group: { _id: "$plate"} }
+])
+   res.json(docs);
+  console.log(docs);
 };
 
