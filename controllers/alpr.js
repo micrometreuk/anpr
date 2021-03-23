@@ -5,6 +5,10 @@ exports.index = function(req, res) {
    // res.sendFile(path.resolve('views/alprdb.html'));
 };
 
+exports.data = function(req, res) {
+    res.render('pages/agg.ejs');
+   // res.sendFile(path.resolve('views/alprdb.html'));
+};
 exports.create = async function(req, res) {
     let newAlpr = new Alpr(req.body.results[0]);
     try {
@@ -43,7 +47,8 @@ exports.put = function(req, res) {
 
 exports.agg = async function(req, res) {
 var docs = await Alpr.aggregate ([
-{ $group: { _id: "$plate"} }
+{ $group: { _id: "$plate"} },
+{$sort:{_id : 1} } 
 ])
    res.json(docs);
   console.log(docs);

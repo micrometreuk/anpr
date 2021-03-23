@@ -30,4 +30,7 @@ router.get('/agg', function(req, res) {
     alpr.agg(req,res);
 });
 
+router.get('/data', function(req, res) {
+    alpr.data(req,res);
+});
 module.exports = router;
