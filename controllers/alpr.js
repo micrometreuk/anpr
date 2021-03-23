@@ -20,15 +20,6 @@ exports.create = async function(req, res) {
     }
 };
 
-exports.list = async function(req, res) {
-  Alpr.find({}, function(err, alprs) {
-      console.log(alprs);
-   res.json(alprs);
-  })
-  .sort({plate: -1});  
-};
-
-
 exports.delete = function(req, res) {
   var item = req.body;
    Alpr.remove({ _id: item._id }, {}, function(err) {
@@ -46,7 +37,7 @@ exports.put = function(req, res) {
   }
 
 
-exports.agg = async function(req, res) {
+exports.list = async function(req, res) {
 var item = await Alpr.find(
     {},
     {plate: 1 }
@@ -55,3 +46,11 @@ var item = await Alpr.find(
   console.log(item);
 };
 
+exports.agg = async function(req, res) {
+var item = await Alpr.aggregate ([
+{ $group: { _id: "$plate"} },
+{$sort:{_id : 1} } 
+])
+   res.json(item);
+  console.log(item);
+};
