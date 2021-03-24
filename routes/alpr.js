@@ -15,7 +15,6 @@ router.delete('/', function(req, res) {
 });
 
 
-
 router.put('/', function(req, res) {
   alpr.put(req, res);
 });
@@ -26,11 +25,4 @@ router.get('/plates', function(req, res) {
 });
 
 
-router.get('/agg', function(req, res) {
-    alpr.agg(req,res);
-});
-
-router.get('/data', function(req, res) {
-    alpr.data(req,res);
-});
 module.exports = router;
