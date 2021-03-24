@@ -15,6 +15,7 @@ var indexRouter = require('./routes/index');
 var videoRouter = require('./routes/video');
 var alprRouter = require('./routes/alpr');
 var adminRouter = require('./routes/admin');
+var dbadminRouter = require('./routes/dbadmin');
 
 var app = express();
 
@@ -36,6 +37,7 @@ app.use('/', indexRouter);
 app.use('/video', videoRouter);
 app.use('/alpr', alprRouter);
 app.use('/admin', adminRouter);
+app.use('/dbadmin', dbadminRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
