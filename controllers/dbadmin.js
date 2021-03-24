@@ -1,7 +1,7 @@
 var Alpr = require('../models/alpr');
 
 exports.index = function(req, res) {
-    res.render('pages/db.ejs');
+    res.render('pages/dbadmin.ejs');
    // res.sendFile(path.resolve('views/alprdb.html'));
 };
 
