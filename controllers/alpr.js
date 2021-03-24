@@ -12,9 +12,8 @@ exports.data = function(req, res) {
 exports.create = async function(req, res) {
    var newAlpr = new Alpr(req.body.results[0]);
     try {
-        await newAlpr.save();
         newAlpr.date = new Date;
-
+        await newAlpr.save();
         console.log(newAlpr);
         res.send(newAlpr);
     } catch (err) {
@@ -39,14 +38,19 @@ exports.put = function(req, res) {
   }
 
 
+
+
 exports.list = async function(req, res) {
-var item = await Alpr.find(
-    {},
-    {plate: 1 }
-).sort({plate: 1 })
-   res.json(item);
-  console.log(item);
+  Alpr.find({}, function(err, alprs) {
+      console.log(alprs);
+   res.json(alprs);
+  });
 };
+
+
+
+
+
 
 exports.agg = async function(req, res) {
 var item = await Alpr.aggregate ([
