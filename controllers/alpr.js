@@ -13,6 +13,8 @@ exports.create = async function(req, res) {
    var newAlpr = new Alpr(req.body.results[0]);
     try {
         await newAlpr.save();
+        newAlpr.date = new Date;
+
         console.log(newAlpr);
         res.send(newAlpr);
     } catch (err) {
