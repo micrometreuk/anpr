@@ -5,11 +5,12 @@ exports.index = function(req, res) {
    // res.sendFile(path.resolve('views/alprdb.html'));
 };
 
-exports.list = async function(req, res) {
-  Alpr.find({}, function(err, alprs) {
-      console.log(alprs);
-   res.json(alprs);
-  })
-  .sort({plate: 1});  
-};
 
+exports.list = async function(req, res) {
+var item = await Alpr.aggregate ([
+{ $group: { _id: "$plate"} },
+{$sort:{_id : 1} } 
+])
+   res.json(item);
+  console.log(item);
+};
