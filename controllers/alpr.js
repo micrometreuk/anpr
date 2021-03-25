@@ -12,6 +12,7 @@ exports.data = function(req, res) {
 exports.create = async function(req, res) {
    var newAlpr = new Alpr(req.body.results[0]);
     try {
+
         newAlpr.date = new Date;
         await newAlpr.save();
         console.log(newAlpr);
@@ -23,7 +24,7 @@ exports.create = async function(req, res) {
 
 exports.delete = function(req, res) {
   var item = req.body;
-   Alpr.remove({ _id: item._id }, {}, function(err) {
+   Alpr.remove({ plate: item.plate }, {}, function(err) {
    res.json(item);
     });   
   console.log(item);
