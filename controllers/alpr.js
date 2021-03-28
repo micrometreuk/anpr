@@ -10,10 +10,11 @@ exports.data = function(req, res) {
    // res.sendFile(path.resolve('views/alprdb.html'));
 };
 exports.create = async function(req, res) {
-   var newAlpr = new Alpr(req.body.results[0]);
+   var newAlpr = new Alpr({
+       uuid: req.body.uuid,
+       plate: req.body.results[0].plate
+   })
     try {
-
-        newAlpr.date = new Date;
         await newAlpr.save();
         console.log(newAlpr);
         res.send(newAlpr);
