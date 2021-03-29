@@ -5,10 +5,6 @@ exports.index = function(req, res) {
    // res.sendFile(path.resolve('views/alprdb.html'));
 };
 
-exports.data = function(req, res) {
-    res.render('pages/agg.ejs');
-   // res.sendFile(path.resolve('views/alprdb.html'));
-};
 exports.create = async function(req, res) {
    var newAlpr = new Alpr({
        uuid: req.body.uuid,
@@ -39,28 +35,10 @@ exports.put = function(req, res) {
   console.log(item);
   }
 
-
-
-
 exports.list = async function(req, res) {
   Alpr.find({}, function(err, alprs) {
       console.log(alprs);
    res.json(alprs);
   });
-};
-
-
-
-
-
-
-exports.agg = async function(req, res) {
-var item = await Alpr.aggregate ([
-{ $group: { _id: "$plate"} },
-{$sort:{_id : 1} },
-{$project: { _id: 0, plate: "$_id" }}
-])
-   res.json(item);
-  console.log(item);
 };
 
