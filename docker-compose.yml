@@ -5,19 +5,25 @@ services:
     restart: always
     build: .
     ports:
-      - '27017:27017'
       - "9091:9091"
     volumes:
       - openalpr:/etc/openalpr
       - ./:/code
+    external_links:
+      - mongo
+  mongo:
+    container_name: mongo
+    image: mongo
+    volumes:
       - dbdata:/data/db
-    networks:
-      - app-network
-
-networks:
-  app-network:
-    driver: bridge
-
+    ports:
+      - '27017:27017'
+  mongo-express:
+    image: mongo-express
+    depends_on:
+       - mongo
+    ports:
+       - "8081:8081"        
 volumes:
   dbdata:
   openalpr:    
