@@ -8,7 +8,7 @@ supervisor \
 gnupg \
 apt-transport-https \
 apt-utils 
-RUN curl --silent --location https://raw.githubusercontent.com/micrometreuk/anpr/master/scripts/openalpr-root-install.sh | bash -
+RUN curl --silent --location https://raw.githubusercontent.com/micrometreuk/anpr/master/scripts/openalpr-buster.sh | bash -
 RUN curl --silent --location https://deb.nodesource.com/setup_12.x | bash -
 RUN apt-get update &&  apt-get install -y \
 nodejs
