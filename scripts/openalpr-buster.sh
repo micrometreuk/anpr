@@ -1,4 +1,5 @@
 #!/bin/bash
+echo 'deb http://deb.debian.org/debian buster-backports main' > /etc/apt/sources.list.d/backports.list
 sudo apt-get update && DEBIAN_FRONTEND=noninteractive  sudo apt-get install -y \
 build-essential \
 cmake \
@@ -10,7 +11,8 @@ liblog4cplus-dev \
 libopencv-dev \
 libtesseract-dev \
 wget \
-beanstalkd 
+beanstalkd \
+tesseract-ocr
 ##  sudo apt upgrade -y
 ##  # Clone the latest code from GitHub
 ##  git clone https://github.com/openalpr/openalpr.git
@@ -23,5 +25,3 @@ beanstalkd
 ##  # compile the library
 ##  make
 # Install the binaries/libraries to your local system (prefix is /usr)
-echo "deb http://ftp.debian.org/debian stretch-backports main" | sudo tee /etc/apt/sources.list
-echo "deb-src http://ftp.debian.org/debian stretch-backports main" | sudo tee /etc/apt/sources.list
