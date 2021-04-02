@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <% include ../partials/head %>
+  </head>
+  <body>
+    <header>
+        <% include ../partials/header %>
+          </header>
+            <div class="mdl-grid">
+                <div class="mdl-cell mdl-cell--4-col">
+                    <h1> Video Upload</h1>
+                    <%= typeof msg != 'undefined' ? msg : '' %>
+                    <form action="/upload" method="POST" enctype="multipart/form-data">
+                      <div class="file-field input-field">
+                        <div class="btn grey">
+                          <span>File</span>
+                          <input name="alprVideo" type="file">
+                        </div>
+                        <div class="file-path-wrapper">
+                          <input class="file-path validate" type="text">
+                        </div>
+                      </div>
+                      <button type="submit" class="btn">Submit</button>
+                    </form>
+                    <br>
+                    <img src="<%= typeof file != 'undefined' ? file : '' %>" class="responsive-img">
+            </div>
+            <div class="mdl-cell mdl-cell--4-col">
+               <h3>Alpr Video</h3>
+                <video width="320" height="240" controls>
+                <source src="uploads/alprVideo-.mp4"type="video/mp4">
+            </div>
+            </div>
+            </div>
+            <script
+            src="https://code.jquery.com/jquery-3.2.1.min.js"
+            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+            crossorigin="anonymous"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>  
+            <footer>
+         <% include ../partials/footer %>
+            </footer>
+  </body>
+</html>

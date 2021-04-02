@@ -1,0 +1,47 @@
+// Json5 format, see https://json5.org/
+{
+    "config": {
+        "listeningPort": 9091,
+        "pageTitle": "Linux Webmin",
+        "links": [
+            {
+                "label": "GitHub",
+                "url": "https://github.com/micrometreuk",
+                "newTab": true
+            }
+        ],
+
+        "commands": [
+            {
+                "label": "start alpr",
+                "nickname": "startlpr",
+                "exec": "scripts/./start-alprd.sh"
+            },
+
+            {
+                "label": "stop alpr",
+                "nickname": "stopalpr",
+                "exec": "scripts/./stop-alprd.sh"
+            },
+            {
+                "label": "restart alpr",
+                "nickname": "restartalpr",
+                "exec": "scripts/./restart-alprd.sh"
+            },
+
+            {
+                "label": "alpr status",
+                "nickname": "alprstatus",
+                "exec": "supervisorctl status"
+            }
+
+        ],
+
+        "informations": [
+	    {
+                "label": "services",
+                "exec": "ps -eo pid,comm,%cpu,%mem --sort=-%cpu | head -n 5"
+            }
+        ]
+    }
+}

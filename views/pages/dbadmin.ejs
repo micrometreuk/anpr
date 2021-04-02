@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <% include ../partials/head %>
+</head>
+<body>
+    <header>
+    <% include ../partials/header %>
+</header>
+<div id="jsGrid"></div>
+<script>
+        $(function() {
+            $("#jsGrid").jsGrid({
+                width: "100%",
+                editing: true,
+                paging: true,
+                autoload: true,
+                selecting: true,
+                sorting: true,
+                deleteConfirm: "Do you really want to delete client?",
+                controller: {
+		    loadData: function(filter) {
+		      return $.ajax({
+                        url: "/dbadmin/plates",
+			dataType: "json"
+		      });
+		    },
+                     
+		    deleteItem: function (item) {
+                            return $ .ajax ({
+                                type: "DELETE",
+                                url: "/alpr",
+                                data: item
+                            });
+                        },
+		  
+                    insertItem: function (item) {
+                            return $ .ajax ({
+                                type: "POST",
+                                url: "/alpr",
+                                data: item
+                            });
+			},
+
+                    updateItem: function(item) {
+               		    return $.ajax({
+                    	    	type: "PUT",
+                    		url: "/alpr",
+                    		data: item
+                	   });
+            		}
+                
+		},
+
+         fields: [
+            {title: "Plate", name: "_id", type: "text", width: 25},
+            {title: "Count", name: "count", type: "text", width: 25}
+            ]
+            });
+        });
+    </script>    
+
+<footer>
+    <% include ../partials/footer %>
+</footer>
+
+</body>
+</html>

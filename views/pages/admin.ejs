@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <% include ../partials/head %>
+</head>
+<body>
+<header>
+    <% include ../partials/header %>
+</header>
+        
+<div class="uk-container uk-container-large">
+                <div class="uk-container">
+                    <div class="uk-margin">
+                        <div class="uk-flex uk-flex-center" uk-grid>
+                            <% commands.forEach(function(command, index) { %>
+           <button class="uk-button uk-button-default" onclick="sendCommandAndPopulateResultZone('<%= command.nickname %>')">
+                              <span uk-icon="icon: chevron-right"></span><%= command.label %>
+                              </button>
+                                <% }); %>
+			</div>
+                    </div>
+		</div>
+	    </div>
+        
+        
+        
+<div id="resultContainer" class="uk-card uk-card-default uk-card-body">
+            <div class="uk-section uk-section-default uk-section-small">
+                <div class="uk-container">
+                    <div>
+                        <!--<h3>Result</h3>-->
+                        <span id="successIndicator" class="uk-label uk-label-success">Success</span>
+                        <span id="failureIndicator" class="uk-label uk-label-warning">Error</span>
+                        <span id="clearIcon">
+<span class="linkBehavior" button class="uk-button uk-button-default"  onclick="updateResultIndicatorAndStatus('')">Clear</span>
+                        </span>
+                    </div>
+                    <div class="uk-alert mono" id="commandResult">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <div class="uk-card uk-card-default uk-card-body">
+            <div class="uk-section uk-section-default uk-section-small">
+                <div class="uk-container">
+                    <!--<h3>Information</h3>-->
+                    <div class="uk-margin">
+                        <div id="informationZone">
+                                <div uk-spinner></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<footer>
+    <% include ../partials/footer %>
+</footer>
+
+</body>
+<script>
+    getInformationAndPopulateInformationZone();
+</script>
+</html>
