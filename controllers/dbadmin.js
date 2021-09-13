@@ -6,12 +6,9 @@ exports.index = function(req, res) {
 };
 
 
-
 exports.list = async function(req, res) {
-var item = await Alpr.aggregate ([
-{$group: { _id: "$plate", count: {$sum: 1}}}, {$sort: {"count": -1}},
-{$match: { count : { $gt: 2 }}}
-])
-   res.json(item);
-  console.log(item);
+  Alpr.find({}, function(err, alprs) {
+      console.log(alprs);
+   res.json(alprs);
+  });
 };
