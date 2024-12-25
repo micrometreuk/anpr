@@ -5,7 +5,7 @@ exports.index = function(req, res) {
 };
 
 exports.create = async function(req, res) {
-    var anpr_host = req.body.results
+    var anpr_host = req.rawHeaders[1]
          console.log(anpr_host);
     var newAlpr = new Alpr({
         _id: req.body.results[0].plate,
