@@ -1,4 +1,7 @@
 .PHONY: run
+
+clean:
+	rm api/public/alprd-images/*.jpg
 start:
 	docker compose up -d 
 stop:
