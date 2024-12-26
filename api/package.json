@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "nodemon ./bin/www",
-    "start": "node ./bin/www"
+    "start": "node ./bin/www",
+    "clean": "rm api/public/alprd-images/*.jpg"
   },
   "dependencies": {
     "body-parser": "^1.20.3",

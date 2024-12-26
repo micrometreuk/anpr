@@ -9,11 +9,10 @@ exports.create = async function(req, res) {
     var anpr_images_path = "/alprd-images/"
     var anpr_image = req.body.uuid + ".jpg"
     var anpr_host = req.rawHeaders[1]
-         console.log(anpr_host_protpcol  + anpr_host + anpr_images_path + anpr_image);
+    var anpr_image_url = anpr_host_protpcol  + anpr_host + anpr_images_path + anpr_image;
     var newAlpr = new Alpr({
+        image: anpr_image_url,
         _id: req.body.results[0].plate,
-        _id: req.body.results[0].plate,
-        uuid: req.body.uuid,
         plate: req.body.results[0].plate
     })
      try {

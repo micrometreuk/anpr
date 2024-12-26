@@ -4,7 +4,7 @@ const Alpr = new Schema ({
         _id: { type: String, required: true },
         plate: { type: String},
         uuid: { type: String},
-        date: { type: Date, default: Date.now }
+        image: { type: String},
 
 });
 
