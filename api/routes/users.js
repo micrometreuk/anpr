@@ -5,7 +5,6 @@ var amqp = require('amqplib/callback_api');
 
 /* GET users listing. */
 router.get('/', function (req, res, next) {
-
   amqp.connect('amqp://localhost', function (error0, connection) {
     if (error0) {
       throw error0;
@@ -15,11 +14,9 @@ router.get('/', function (req, res, next) {
         throw error1;
       }
       var exchange = 'logs';
-
       channel.assertExchange(exchange, 'fanout', {
         durable: false
       });
-
       channel.assertQueue('', {
         exclusive: true
       }, function (error2, q) {
