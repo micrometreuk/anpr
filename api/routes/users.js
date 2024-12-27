@@ -1,10 +1,12 @@
 var express = require('express');
 var router = express.Router();
 var amqp = require('amqplib/callback_api');
-
+var SSE = require('express-sse');
+const sse = new SSE();
 
 /* GET users listing. */
 router.get('/', function (req, res, next) {
+  sse.init(req, res);
   amqp.connect('amqp://localhost', function (error0, connection) {
     if (error0) {
       throw error0;
@@ -35,42 +37,14 @@ router.get('/', function (req, res, next) {
         });
       });
     });
+
   });
-  res.render('index', { title: 'Express' });
+
 });
 
 
 /* GET home page. */
 
-
-router.get('/send', function(req, res, next) {
-  amqp.connect('amqp://localhost', function(error0, connection) {
-      if (error0) {
-          throw error0;
-      }
-      connection.createChannel(function(error1, channel) {
-          if (error1) {
-              throw error1;
-          }
-          var exchange = 'logs';
-          var msg = process.argv.slice(2).join(' ') || 'Hello Worlddd!';
-  
-          channel.assertExchange(exchange, 'fanout', {
-              durable: false
-          });
-          channel.publish(exchange, '', Buffer.from(msg));
-          console.log(" [x] Sent %s", msg);
-      });
-  
-      setTimeout(function() {
-          connection.close();
-          //process.exit(0);
-      }, 500);
-  });
-
-
-res.render('index', { title: 'Express' });
-});
 
 
 

@@ -1,10 +1,19 @@
 var Alpr = require('../models/anpr');
 var amqp = require('amqplib');
+var SSE = require('express-sse');
+const sse = new SSE();
 
 
-
-exports.index = function (req, res) {
-    res.send('respond from controller');
+exports.index = async function (req, res) {
+    try {
+        res.send('respond from controller');
+        const connection = await amqp.connect('amqp://localhost');
+        const channel = await connection.createChannel()
+        const exchange = 'logs';
+        console.log(channel);
+    } catch (error) {
+        res.status(500).send("async error");
+    }
 };
 
 exports.create = async function (req, res) {
@@ -22,14 +31,14 @@ exports.create = async function (req, res) {
         const connection = await amqp.connect('amqp://localhost');
         const channel = await connection.createChannel()
         const exchange = 'logs';
-        /*const msg = process.argv.slice(2).join(' ') || 'Hello Worldddd!' + newAlpr;*/
-        const msg = process.argv.slice(2).join(' ') || 'Hello Worldddd!' + newAlpr;
+        const msg = process.argv.slice(2).join(' ') || 'Plate' + newAlpr;
         await channel.assertExchange(exchange, 'fanout', {
             durable: false
         });
         await channel.publish(exchange, '', Buffer.from(msg));
         await newAlpr.save();
         res.send(newAlpr);
+
     } catch (err) {
         res.status(500).send("Video finished playback");
     }
