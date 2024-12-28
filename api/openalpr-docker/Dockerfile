@@ -1,0 +1,1 @@
+FROM openalpr/openalpr:latest
