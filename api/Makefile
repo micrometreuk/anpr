@@ -1,4 +1,6 @@
 .PHONY: run
+delete_images:
+	sudo rm -rf public/images/*.jpg
 update:
 	docker compose down 
 	docker compose pull
