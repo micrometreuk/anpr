@@ -1,0 +1,6 @@
+services:
+  alpr:
+    build: .
+    user: root
+    volumes:
+      - ../static/images:/var/lib/openalpr/plateimages
