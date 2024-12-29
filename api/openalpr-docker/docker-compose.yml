@@ -1,8 +1,6 @@
-# docker-compose.yml
 services:
-  alpr_upload:
+  alpr:
     build: .
-    container_name: alprd
     user: root
     volumes:
-      - ./public/images:/var/lib/openalpr/plateimages      
+      - ../static/images:/var/lib/openalpr/plateimages

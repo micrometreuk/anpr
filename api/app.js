@@ -30,7 +30,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 
-//var db = require('./config/db')
+var db = require('./config/db')
 
 
 app.use('/', indexRouter);

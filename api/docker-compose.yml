@@ -1,7 +1,7 @@
 # docker-compose.yml
 services:
   alpr_upload:
-    build: ./openalpr-upload
+    build: ./openalpr-docker
     container_name: alprd
     user: root
     volumes:

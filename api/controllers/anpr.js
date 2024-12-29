@@ -3,7 +3,6 @@ var amqp = require('amqplib');
 var SSE = require('express-sse');
 const sse = new SSE();
 
-var newAlprSee = {}
 
 exports.index = async function (req, res) {
     console.log((newAlprSee))
@@ -22,7 +21,6 @@ exports.create = async function (req, res) {
         _id: req.body.results[0].plate,
 
     });
-    newAlprSee = Object.assign({}, newAlpr);
     console.log((newAlpr))
     try {
         await newAlpr.save();
