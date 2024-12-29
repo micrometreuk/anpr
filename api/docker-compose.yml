@@ -1,5 +1,11 @@
 # docker-compose.yml
 services:
+  alpr_upload:
+    build: ./openalpr-docker
+    container_name: alprd
+    user: root
+    volumes:
+      - ./public/images:/var/lib/openalpr/plateimages      
   mongo:
     image: mongo
     restart: always
