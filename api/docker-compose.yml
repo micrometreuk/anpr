@@ -1,8 +1,38 @@
 # docker-compose.yml
 services:
-  alpr_upload:
-    build: ./openalpr-docker
-    container_name: alprd
-    user: root
+  mongo:
+    image: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+    ports:
+      - "27017:27017" 
+  mongo-express:
+    image: mongo-express
+    restart: always
+    ports:
+      - 8081:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: example
+      ME_CONFIG_MONGODB_URL: mongodb://root:example@mongo:27017/
+      ME_CONFIG_BASICAUTH: false
+  redis:
+    image: redis:latest
+    container_name: redis
+    command: redis-server
     volumes:
-      - ./public/images:/var/lib/openalpr/plateimages      
+      - redis:/var/lib/redis
+      - redis-config:/usr/local/etc/redis/redis.conf
+    ports:
+      - 6379:6379
+    networks:
+      - redis-network
+networks:
+  redis-network:
+    driver: bridge      
+volumes:
+  data:
+  redis:
+  redis-config:      
