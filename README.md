@@ -1,4 +1,4 @@
-# MERN Stack (MongoDB, Express, React, and Node,) Docker Compose  example
+# MERN Stack (MongoDB, Nodejs/ExpressJS, React and Redis) in  Docker 
 
 ## Run the System
 ```bash
