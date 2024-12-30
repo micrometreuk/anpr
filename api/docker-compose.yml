@@ -1,6 +1,12 @@
 # docker-compose.yml
 services:
-  alpr_upload:
+  alpr_app:
+    build: .
+    depends_on:
+      - mongo
+    ports:
+      - "3000:3000" 
+  alprd:
     build: ./openalpr-docker
     container_name: alprd
     user: root
