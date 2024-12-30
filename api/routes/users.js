@@ -8,19 +8,6 @@ const redis = require('redis');
 
 
 router.get('/', function(req, res, next) {
-  (async () => {
-
-    const client = redis.createClient();
-  
-    const subscriber = client.duplicate();
-  
-    await subscriber.connect();
-  
-    await subscriber.subscribe('article', (message) => {
-      console.log(message); // 'message'
-    });
-  
-  })();
   res.send('respond with a resource');
 });
 
