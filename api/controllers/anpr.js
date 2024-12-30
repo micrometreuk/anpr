@@ -3,6 +3,8 @@ var amqp = require('amqplib');
 var SSE = require('express-sse');
 const sse = new SSE();
 
+const redis = require('redis');
+const publisher = redis.createClient();
 
 exports.index = async function (req, res) {
     res.send('index');
@@ -20,13 +22,8 @@ exports.create = async function (req, res) {
         _id: req.body.results[0].plate,
 
     });
-    var ip = req.headers
-
     console.log((newAlpr))
     try {
-        await newAlpr.save();
-        res.send(newAlpr);
-
     } catch (err) {
         res.status(500).send("Video finished playback");
     }
